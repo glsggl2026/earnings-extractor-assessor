@@ -1,0 +1,485 @@
+Company: UNITED COMMUNITY BANKS INC (CIK 857855)
+Accession: 0001104659-26-117113
+Results released: 2026-10-20
+Press release: https://www.sec.gov/Archives/edgar/data/857855/000110465926117113/tm2627820d1_ex99-1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/857855/000110465926117113/0001104659-26-117113-index.htm
+Saved: 2026-10-25T21:40:32+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 tm2627820d1_ex99-1.htm EXHIBIT 99.1
+Exhibit 99.1
+For Immediate Release
+For more information:
+Tom Speir
+Chief Financial Officer
+(864) 240-6208
+Investor_Relations@ucbi.com
+United Community Banks, Inc. Reports Third Quarter Earnings
+Third Quarter Results Reflect Execution of Significant Strategic Initiatives, Strong Core Loan Growth, and Robust Deposit Growth
+GREENVILLE, SC – October 20, 2026 – United Community Banks, Inc. (NYSE: UCB) (United) today announced financial results for the quarter ended September 30, 2026, which included 9.8% annualized core loan growth, 8.0% annualized core customer deposit growth, and a stable margin following six consecutive quarters of margin expansion.
+Chairman and CEO Lynn Harton stated, “Our third quarter results reflect key strategic actions that simplify our balance sheet, reduce risk, and strengthen future operating performance. We completed the acquisition of Peach State Bank on August 1, the sale of our Navitas equipment finance business on September 1, and the restructuring of our investment portfolio in early September. The restructuring shortened duration and significantly improved the yield on our portfolio. At the same time, we achieved high single-digit growth in both core loans and customer deposits in the quarter, reflecting strong momentum resulting from our investment in hiring top talent. New loan production exceeded $1 billion for the second consecutive quarter. The strategies executed in the third quarter position us very well for the future, as demonstrated by improvements in operating return on assets, return on tangible common equity, and operating efficiency ratio.”
+In the third quarter, United sold its Navitas equipment finance business for $2.0 billion in cash proceeds, a 7% premium to par. Following the sale, $2.2 billion in held-to-maturity securities were reclassified to available-for-sale designation and long-dated, low yielding securities with an amortized cost basis of $2.5 billion were subsequently sold. The securities repositioning resulted in $2.1 billion of cash proceeds, which, together with the $2.0 billion of Navitas sale proceeds, were redeployed into higher-yielding securities and used to pay down borrowings. Additionally, United completed the acquisition of Peach State Bancshares in the third quarter, increasing density in a dynamic growth market through a complementary, low-risk transaction.
+Harton continued, “The actions completed in the third quarter allow us to focus on growing the core banking business within our outstanding Southeast footprint. We believe these actions, including our strong liquidity and capital, position us well for long-term success.”
+Third Quarter 2026 Financial Highlights:
+· | EPS of $(1.16) on a GAAP basis and $0.77 on an operating basis, compared to $0.95 and $0.71, respectively, in the second quarter of 2026. GAAP EPS reflects strategic actions executed in the third quarter to improve the long-term company performance, including the completion of the sale of our equipment finance business and repositioning of our investment securities portfolio.
+· | Net loss of $139.7 million reflects strategic actions taken during the third quarter. Adjusting for those items, operating net income was $93.7 million in the third quarter, up 8% from the second quarter.
+· | Total revenue of $(12.0) million resulted from the strategic actions taken in the third quarter. Adjusted for the gain from the sale of Navitas and the loss on the investment portfolio restructuring, which net to $304 million, total operating revenue was $292 million, up from $279 million in the second quarter.
+· | Net interest margin of 3.68% increased by 10 basis points year-over-year and was stable from the second quarter of 2026.
+· | Provision for credit losses totaled $10.0 million, including net charge-offs of $4.0 million, or 0.09% of loans for the third quarter.
+o | Allowance for credit losses coverage was 1.05% of total loans, up one basis point from June 30, 2026.
+· | Noninterest expense increased $2.3 million on a GAAP basis and decreased $3.3 million on an operating basis, compared to the second quarter.
+· | Third quarter income taxes reflect the specific tax rates applicable to the Navitas sale and investment securities losses, as well as a higher core effective tax rate resulting from higher estimated pre-tax income and certain discrete items recognized in the quarter.
+· | GAAP efficiency ratio is not meaningful due to the securities losses incurred in the third quarter. Operating efficiency ratio improved to 53.1% from 56.7% in the second quarter.
+· | Loan growth of $444 million, or 9.8% annualized, from the second quarter, excluding the impact of Peach State and Navitas.
+· | Customer deposits were up $473 million, or 8.0% annualized, from the second quarter, excluding deposits received from the Peach State acquisition.
+· | Peach State contributed $520 million of loans and $678 million of deposits at the time of the acquisition.
+· | Return on assets was (1.89%) on a GAAP basis and 1.27% on an operating basis. Operating return on assets improved 5 bps from the second quarter.
+· | Return on common equity on a GAAP basis and return on tangible common equity on an operating basis were (14.8%) and 13.9%, respectively.
+· | Repurchased 1.395 million common shares at an average price of $35.81 per share for an aggregate of $50 million in the third quarter. The Board also approved an incremental $100 million share repurchase authorization through the end of 2027, bringing the current outstanding repurchase authorization to $113 million.
+· | Maintained strong capital ratios with preliminary Common Equity Tier 1 of 13.0%.
+· | Quarterly common dividend increased to $0.26 per share declared during the quarter, up 4% year over year.
+Year to Date 2026 Financial Highlights:
+· | Net income of $60.2 million, lowered by strategic actions taken in the third quarter. Net income – operating of $265 million, compared with $249 million in 2025.
+· | Diluted earnings per share of $0.49, or $2.18 on an operating basis compared with operating earnings per share of $2.00 in 2025.
+· | Total revenue of $544 million, or $843 million on an operating basis, up 7% from 2025.
+· | Return on assets of 0.28%, or 1.24% on an operating basis up from 1.19% operating return on assets for 2025.
+· | Pre-tax, pre-provision return on assets of 1.76% on an operating basis up from 1.70% operating pre-tax, pre-provision return on assets for 2025.
+· | Return on common equity of 2.18%, or 9.58% on an operating basis compared with 8.92% operating return on common equity for 2025.
+· | Operating return on tangible common equity of 13.3%, up from 12.6% for 2025.
+Additional details about the previously announced strategic actions taken in the third quarter are available under “Events and Presentations” in the “News and Events” section of the Investor Relations page on the company's website, ucbi.com, or directly at https://ir.ucbi.com/events/event-details/strategic-initiatives-conference-call.
+Conference Call
+United will hold a conference call on Tuesday, October 20, 2026 at 8:30 a.m. ET to discuss the contents of this press release and to share business highlights for the quarter. Participants can pre-register for the conference call by navigating to https://dpregister.com/sreg/10209322/1040c6adc70. Those without internet access or unable to pre-register may dial in by calling 1-844-676-1337. The conference call also will be webcast and may be accessed by selecting “Events and Presentations” under “News and Events” within the Investor Relations section of the company's website, ucbi.com.
+UNITED COMMUNITY BANKS, INC.
+Selected Financial Information
+(in thousands, except per share data)
+2026 | 2025 | Third Quarter 2026- | For the Nine Months Ended September 30, | YTD 2026 -
+Third Quarter | Second Quarter | First Quarter | Fourth Quarter | Third Quarter | 2025 Change | 2026 | 2025 | 2025 Change
+INCOME SUMMARY
+Interest revenue | $ | 362,560 | $ | 344,371 | $ | 333,961 | $ | 346,367 | $ | 353,850 | $ | 1,040,892 | $ | 1,036,572
+Interest expense | 111,354 | 103,471 | 101,197 | 108,441 | 120,221 | 316,022 | 365,391
+Net interest revenue | 251,206 | 240,900 | 232,764 | 237,926 | 233,629 | 8 | % | 724,870 | 671,181 | 8 | %
+Noninterest income | (263,172 | ) | 38,380 | 43,746 | 40,462 | 43,219 | n/m | (181,046 | ) | 113,583 | n/m
+Total revenue | (11,966 | ) | 279,280 | 276,510 | 278,388 | 276,848 | n/m | 543,824 | 784,764 | (31 | )
+Provision for credit losses | 10,013 | (29,803 | ) | 10,853 | 13,662 | 7,907 | n/m | (8,937 | ) | 35,144 | n/m
+Noninterest expense | 162,241 | 159,915 | 157,302 | 152,048 | 150,868 | 8 | 479,458 | 439,886 | 9
+Income (loss) before income tax expense | (184,220 | ) | 149,168 | 108,355 | 112,678 | 118,073 | n/m | 73,303 | 309,734 | (76 | )
+Income tax (benefit) expense | (44,475 | ) | 33,530 | 24,066 | 26,223 | 26,579 | n/m | 13,121 | 68,094 | (81 | )
+Net (loss) income | (139,745 | ) | 115,638 | 84,289 | 86,455 | 91,494 | n/m | 60,182 | 241,640 | (75 | )
+Non-operating items | 310,380 | (37,582 | ) | 508 | 606 | 3,468 | 273,306 | 9,598
+Income tax related to non-operating items | (76,932 | ) | 8,347 | (113 | ) | (133 | ) | (751 | ) | (68,698 | ) | (2,079 | )
+Net income - operating (1) | $ | 93,703 | $ | 86,403 | $ | 84,684 | $ | 86,928 | $ | 94,211 | (1 | ) | $ | 264,790 | $ | 249,159 | 6
+Pre-tax pre-provision income (5) | $ | (174,207 | ) | $ | 119,365 | $ | 119,208 | $ | 126,340 | $ | 125,980 | n/m | $ | 64,366 | $ | 344,878 | (81 | )
+PERFORMANCE MEASURES
+Per common share:
+Diluted net income - GAAP | $ | (1.16 | ) | $ | 0.95 | $ | 0.69 | $ | 0.70 | $ | 0.70 | n/m | $ | 0.49 | $ | 1.91 | (74 | )
+Diluted net income - operating (1) | 0.77 | 0.71 | 0.70 | 0.71 | 0.75 | 3 | 2.18 | 2.00 | 9
+Cash dividends declared | 0.26 | 0.25 | 0.25 | 0.25 | 0.25 | 4 | 0.76 | 0.73 | 4
+Book value | 29.27 | 31.27 | 30.54 | 30.17 | 29.44 | (1 | ) | 29.27 | 29.44 | (1 | )
+Tangible book value (3) | 20.80 | 23.31 | 22.56 | 22.24 | 21.59 | (4 | ) | 20.80 | 21.59 | (4 | )
+Key performance ratios:
+Return on common equity - GAAP (2)(4) | (14.85 | )% | 12.56 | % | 9.35 | % | 9.48 | % | 9.20 | % | 2.18 | % | 8.53 | %
+Return on common equity - operating (1)(2)(4) | 9.95 | 9.39 | 9.39 | 9.53 | 9.83 | 9.58 | 8.92
+Return on tangible common equity - operating (1)(2)(3)(4) | 13.90 | 12.98 | 13.05 | 13.31 | 13.56 | 13.32 | 12.57
+Return on assets - GAAP (4) | (1.89 | ) | 1.63 | 1.22 | 1.21 | 1.29 | 0.28 | 1.16
+Return on assets - operating (1)(4) | 1.27 | 1.22 | 1.22 | 1.22 | 1.33 | 1.24 | 1.19
+Return on assets - pre-tax pre-provision, excluding non-operating items(1)(4)(5) | 1.84 | 1.70 | 1.73 | 1.78 | 1.83 | 1.76 | 1.70
+Net interest margin (fully taxable equivalent) (4) | 3.68 | 3.68 | 3.65 | 3.62 | 3.58 | 3.67 | 3.48
+Efficiency ratio - GAAP | n/m | 57.01 | 56.66 | 54.40 | 54.30 | 87.58 | 55.86
+Efficiency ratio - operating (1) | 53.11 | 56.69 | 55.65 | 54.19 | 53.05 | 55.12 | 54.64
+Equity to total assets | 12.14 | 12.89 | 12.97 | 12.99 | 12.78 | 12.14 | 12.78
+Tangible common equity to tangible assets (3) | 8.95 | 9.94 | 9.92 | 9.92 | 9.71 | 8.95 | 9.71
+ASSET QUALITY
+Nonperforming assets ("NPAs") | $ | 81,270 | $ | 103,387 | $ | 98,623 | $ | 93,498 | $ | 97,916 | (17 | ) | $ | 81,270 | $ | 97,916 | (17 | )
+ACL - funded loans | 179,143 | 168,705 | 208,396 | 210,429 | 215,791 | (17 | ) | 179,143 | 215,791 | (17 | )
+ACL - total | 200,237 | 188,329 | 225,996 | 225,520 | 228,276 | (12 | ) | 200,237 | 228,276 | (12 | )
+Net charge-offs | 3,973 | 7,864 | 10,377 | 16,418 | 7,676 | (48 | ) | 22,214 | 25,508 | (13 | )
+ACL - funded loans to loans | 0.94 | % | 0.94 | % | 1.06 | % | 1.09 | % | 1.13 | % | 0.94 | % | 1.13 | %
+ACL - total to loans | 1.05 | 1.04 | 1.15 | 1.16 | 1.19 | 1.05 | 1.19
+Net charge-offs to average loans HFI (4) | 0.09 | 0.16 | 0.22 | 0.34 | 0.16 | 0.15 | 0.18
+NPAs to total assets | 0.28 | 0.36 | 0.35 | 0.33 | 0.35 | 0.28 | 0.35
+AT PERIOD END ($ in millions)
+Loans held for investment | $ | 18,988 | $ | 18,024 | $ | 19,602 | $ | 19,384 | $ | 19,175 | (1 | ) | $ | 18,988 | $ | 19,175 | (1 | )
+Investment securities | 6,641 | 6,377 | 5,889 | 5,988 | 6,163 | 8 | 6,641 | 6,163 | 8
+Total assets | 28,882 | 29,051 | 28,177 | 28,003 | 28,143 | 3 | 28,882 | 28,143 | 3
+Deposits | 24,888 | 23,724 | 24,025 | 23,798 | 24,021 | 4 | 24,888 | 24,021 | 4
+Shareholders’ equity | 3,507 | 3,745 | 3,655 | 3,639 | 3,597 | (3 | ) | 3,507 | 3,597 | (3 | )
+Common shares outstanding (thousands) | 119,827 | 119,764 | 119,684 | 120,598 | 121,553 | (1 | ) | 119,827 | 121,553 | (1 | )
+(1) Excludes non-operating items as detailed on Non-GAAP Performance Measures Reconciliation. (2) Net income less preferred stock dividends, divided by average common equity. (3) Excludes effect of acquisition related intangibles and associated amortization. (4) Annualized. (5) Excludes income tax expense and provision for credit losses.
+UNITED COMMUNITY BANKS, INC.
+Loan Portfolio Composition at Period-End
+2026 | 2025 | Linked | Year over
+(in millions) | Third Quarter | Second Quarter | First Quarter | Fourth Quarter | Third Quarter | Quarter Change | Year Change
+LOANS BY CATEGORY
+Owner occupied commercial RE | $ | 4,336 | $ | 4,117 | $ | 4,041 | $ | 3,950 | $ | 3,678 | $ | 219 | $ | 658
+Income producing commercial RE | 5,217 | 5,018 | 4,984 | 5,032 | 4,534 | 199 | 683
+Commercial & industrial (1) | 2,976 | 2,859 | 2,771 | 2,696 | 2,593 | 117 | 383
+Commercial construction & land | 1,360 | 1,143 | 1,072 | 998 | 1,734 | 217 | (374 | )
+Equipment financing (1) | — | — | 1,897 | 1,848 | 1,808 | — | (1,808 | )
+Total commercial | 13,889 | 13,137 | 14,765 | 14,524 | 14,347 | 752 | (458 | )
+Residential mortgage | 3,198 | 3,101 | 3,122 | 3,157 | 3,198 | 97 | —
+Home equity | 1,504 | 1,403 | 1,344 | 1,319 | 1,252 | 101 | 252
+Residential construction & land | 211 | 195 | 185 | 191 | 178 | 16 | 33
+Consumer | 195 | 193 | 187 | 188 | 192 | 2 | 3
+Other | (9 | ) | (5 | ) | (1 | ) | 5 | 8 | (4 | ) | (17 | )
+Total loans held for investment | $ | 18,988 | $ | 18,024 | $ | 19,602 | $ | 19,384 | $ | 19,175 | $ | 964 | $ | (187 | )
+LOANS BY MARKET
+Georgia | $ | 5,336 | $ | 4,662 | $ | 4,617 | $ | 4,635 | $ | 4,584 | $ | 674 | $ | 752
+South Carolina | 3,180 | 3,130 | 3,037 | 2,971 | 2,926 | 50 | 254
+North Carolina | 2,786 | 2,706 | 2,722 | 2,712 | 2,676 | 80 | 110
+Tennessee | 1,979 | 1,962 | 1,895 | 1,913 | 1,902 | 17 | 77
+Florida | 3,398 | 3,283 | 3,229 | 3,102 | 3,040 | 115 | 358
+Alabama | 1,114 | 1,082 | 1,049 | 1,050 | 1,054 | 32 | 60
+Commercial Banking Solutions (2) | 1,195 | 1,199 | 3,053 | 3,001 | 2,993 | (4 | ) | (1,798 | )
+Total loans held for investment | $ | 18,988 | $ | 18,024 | $ | 19,602 | $ | 19,384 | $ | 19,175 | $ | 964 | $ | (187 | )
+(1) Substantially all equipment financing loans were transferred to held for sale in the second quarter of 2026 as a result of the then-pending sale of Navitas Credit Corp, which subsequently closed on September 1, 2026. Retained equipment financing loans were reclassified to the commercial & industrial line.
+(2) Reduction in the second quarter of 2026 reflects the transfer of substantially all equipment financing loans to held for sale.
+UNITED COMMUNITY BANKS, INC.
+Credit Quality
+(in thousands)
+2026
+Third Quarter | Second Quarter | First Quarter
+NONACCRUAL LOANS
+Owner occupied RE | $ | 12,002 | $ | 20,027 | $ | 18,265
+Income producing RE | 10,880 | 11,655 | 11,037
+Commercial & industrial | 16,585 | 21,147 | 19,890
+Commercial construction & land | 106 | 916 | 17
+Equipment financing (1) | — | — | 8,024
+Total commercial | 39,573 | 53,745 | 57,233
+Residential mortgage | 31,444 | 30,506 | 31,906
+Home equity | 6,060 | 6,435 | 6,209
+Residential construction & land | 281 | 338 | 355
+Consumer | 962 | 977 | 1,009
+Total nonaccrual loans held for investment | 78,320 | 92,001 | 96,712
+Equipment finance nonaccrual loans held for sale (1) | — | 9,392 | —
+OREO and repossessed assets | 2,950 | 1,994 | 1,911
+Total NPAs | $ | 81,270 | $ | 103,387 | $ | 98,623
+(1) Substantially all equipment financing loans were transferred to held for sale in the second quarter of 2026 and were subsequently sold in the sale of Navitas Credit Corp. on September 1, 2026. Retained equipment financing loans were reclassified to the commercial & industrial loan category, as equipment financing is no longer an individually significant loan category.
+2026
+Third Quarter | Second Quarter | First Quarter
+(in thousands) | Net Charge- Offs | Net Charge- Offs to Average Loans (1) | Net Charge- Offs | Net Charge- Offs to Average Loans (1) | Net Charge- Offs | Net Charge- Offs to Average Loans (1)
+NET CHARGE-OFFS (RECOVERIES) BY CATEGORY
+Owner occupied RE | $ | 837 | 0.08 | % | $ | (3,447 | ) | (0.34 | )% | $ | 666 | 0.07 | %
+Income producing RE | (17 | ) | — | 57 | — | (85 | ) | (0.01 | )
+Commercial & industrial | 2,281 | 0.32 | 6,859 | 0.97 | 3,309 | 0.50
+Commercial construction & land | (23 | ) | (0.01 | ) | (22 | ) | (0.01 | ) | 6 | —
+Equipment financing (2) | — | n/m | 3,697 | 0.78 | 5,835 | 1.29
+Total commercial | 3,078 | 0.09 | 7,144 | 0.19 | 9,731 | 0.27
+Residential mortgage | 84 | 0.01 | 57 | 0.01 | 133 | 0.02
+Home equity | (141 | ) | (0.04 | ) | (24 | ) | (0.01 | ) | (54 | ) | (0.02 | )
+Residential construction & land | 107 | 0.20 | (6 | ) | (0.01 | ) | 12 | 0.03
+Consumer | 845 | 1.73 | 693 | 1.47 | 555 | 1.21
+Total | $ | 3,973 | 0.09 | $ | 7,864 | 0.16 | $ | 10,377 | 0.22
+(1) Annualized.
+(2) Retained equipment financing loans and related charge-offs were reclassified to the commercial & industrial loan category, as equipment financing is no longer an individually significant loan category.
+UNITED COMMUNITY BANKS, INC.
+Consolidated Balance Sheets (Unaudited)
+(in thousands, except share and per share data) | September 30, 2026 | December 31, 2025
+ASSETS
+Cash and due from banks | $ | 125,069 | $ | 202,586
+Interest-bearing deposits in banks | 656,536 | 193,168
+Cash and cash equivalents | 781,605 | 395,754
+Trading securities | 93,760 | —
+Debt securities available-for-sale | 6,546,796 | 3,750,863
+Debt securities held-to-maturity (fair value $1,918,426 at December 31, 2025) | — | 2,237,356
+Mortgage loans held for sale | 34,493 | 39,381
+Loans held for investment | 18,988,195 | 19,384,317
+Less allowance for credit losses - loans | (179,143 | ) | (210,429 | )
+Loans, net | 18,809,052 | 19,173,888
+Premises and equipment, net | 409,533 | 393,714
+Bank-owned life insurance | 376,000 | 364,184
+Goodwill and other intangible assets, net | 1,026,915 | 967,882
+Other assets | 803,883 | 679,532
+Total assets | $ | 28,882,037 | $ | 28,002,554
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Liabilities:
+Deposits:
+Noninterest-bearing demand | $ | 6,751,068 | $ | 6,252,252
+NOW and interest-bearing demand | 5,762,468 | 5,969,864
+Money market | 7,376,074 | 6,696,530
+Savings | 1,093,655 | 1,085,331
+Time | 3,733,490 | 3,619,189
+Brokered | 171,102 | 175,264
+Total deposits | 24,887,857 | 23,798,430
+Short-term borrowings | — | 85,000
+Long-term debt | 39,686 | 120,400
+Accrued expense and other liabilities | 447,187 | 360,038
+Total liabilities | 25,374,730 | 24,363,868
+Shareholders' equity:
+Common stock, $1 par value; 200,000,000 shares authorized, 119,827,028 and 120,598,266 shares issued and outstanding, respectively | 119,827 | 120,598
+Capital surplus | 2,724,987 | 2,754,399
+Retained earnings | 882,021 | 914,261
+Accumulated other comprehensive loss | (219,528 | ) | (150,572 | )
+Total shareholders' equity | 3,507,307 | 3,638,686
+Total liabilities and shareholders' equity | $ | 28,882,037 | $ | 28,002,554
+UNITED COMMUNITY BANKS, INC.
+Consolidated Statements of Income (Unaudited)
+Three Months Ended September 30, | Nine Months Ended September 30,
+(in thousands, except per share data) | 2026 | 2025 | 2026 | 2025
+Interest revenue:
+Loans, including fees | $ | 301,420 | $ | 297,929 | $ | 883,109 | $ | 860,269
+Securities:
+Taxable | 52,839 | 51,522 | 141,969 | 162,885
+Tax-exempt | 1,540 | 1,681 | 4,857 | 5,030
+Other | 6,761 | 2,718 | 10,957 | 8,388
+Total interest revenue | 362,560 | 353,850 | 1,040,892 | 1,036,572
+Interest expense:
+Deposits:
+NOW and interest-bearing demand | 27,877 | 35,050 | 84,124 | 109,396
+Money market | 45,747 | 50,661 | 127,596 | 149,805
+Savings | 489 | 641 | 1,452 | 2,722
+Time | 29,485 | 32,123 | 86,558 | 94,622
+Deposits | 103,598 | 118,475 | 299,730 | 356,545
+Short-term borrowings | 2,546 | 25 | 5,097 | 1,215
+Federal Home Loan Bank advances | 4,684 | — | 8,667 | 433
+Long-term debt | 526 | 1,721 | 2,528 | 7,198
+Total interest expense | 111,354 | 120,221 | 316,022 | 365,391
+Net interest revenue | 251,206 | 233,629 | 724,870 | 671,181
+Noninterest income:
+Service charges and fees | 11,640 | 11,400 | 31,560 | 31,057
+Mortgage loan gains and other related fees | 10,714 | 7,098 | 25,523 | 18,590
+Wealth management fees | 4,897 | 4,757 | 14,458 | 13,622
+Net gains from sales of other loans | 63,222 | 2,385 | 66,062 | 5,776
+Lending and loan servicing fees | 3,332 | 4,235 | 11,401 | 12,090
+Securities (losses) gains, net | (366,101 | ) | 49 | (365,970 | ) | 341
+Other | 9,124 | 13,295 | 35,920 | 32,107
+Total noninterest income | (263,172 | ) | 43,219 | (181,046 | ) | 113,583
+Total revenue | (11,966 | ) | 276,848 | 543,824 | 784,764
+Provision for credit losses | 10,013 | 7,907 | (8,937 | ) | 35,144
+Noninterest expense:
+Salaries and employee benefits | 96,443 | 90,667 | 293,934 | 261,931
+Communications and equipment | 14,127 | 13,937 | 41,972 | 40,968
+Occupancy | 11,184 | 11,502 | 34,141 | 33,366
+Advertising and public relations | 2,485 | 2,053 | 7,590 | 6,815
+Postage, printing and supplies | 2,515 | 2,735 | 8,016 | 7,791
+Professional fees | 7,420 | 6,282 | 19,864 | 17,822
+Lending and loan servicing expense | 2,231 | 2,428 | 7,918 | 6,745
+Outside services - electronic banking | 3,849 | 3,543 | 10,963 | 9,876
+FDIC assessments and other regulatory charges | 4,900 | 4,846 | 11,496 | 14,233
+Amortization of intangibles | 3,348 | 3,313 | 9,349 | 9,891
+Merger-related and other charges | 6,509 | 3,468 | 8,277 | 9,598
+Other | 7,230 | 6,094 | 25,938 | 20,850
+Total noninterest expense | 162,241 | 150,868 | 479,458 | 439,886
+(Loss) income before income taxes | (184,220 | ) | 118,073 | 73,303 | 309,734
+Income tax (benefit) expense | (44,475 | ) | 26,579 | 13,121 | 68,094
+Net (loss) income | (139,745 | ) | 91,494 | 60,182 | 241,640
+Preferred stock dividends and deemed dividend at redemption | — | 4,848 | — | 7,994
+Earnings and dividends allocated to participating securities | 243 | 507 | 639 | 1,356
+Net (loss) income available to common shareholders | $ | (139,988 | ) | $ | 86,139 | $ | 59,543 | $ | 232,290
+Net (loss) income per common share:
+Basic | $ | (1.16 | ) | $ | 0.71 | $ | 0.49 | $ | 1.92
+Diluted | (1.16 | ) | 0.70 | 0.49 | 1.91
+Weighted average common shares outstanding:
+Basic | 120,456 | 122,116 | 120,419 | 121,186
+Diluted | 120,456 | 122,252 | 120,654 | 121,303
+UNITED COMMUNITY BANKS, INC.
+Average Consolidated Balance Sheets and Net Interest Analysis
+For the Three Months Ended September 30,
+2026 | 2025
+(dollars in thousands, fully taxable equivalent (FTE)) | Average Balance | Interest | Average Rate | Average Balance | Interest | Average Rate
+Assets:
+Interest-earning assets:
+Loans, net of unearned income (FTE) (1)(2) | $ | 19,797,609 | $ | 302,229 | 6.06 | % | $ | 19,010,663 | $ | 297,725 | 6.21 | %
+Taxable securities (3) | 6,318,792 | 52,839 | 3.34 | 6,217,693 | 51,522 | 3.31
+Tax-exempt securities (FTE) (1)(3) | 259,744 | 2,052 | 3.16 | 351,528 | 2,249 | 2.56
+Other interest-earning assets | 814,949 | 6,761 | 3.29 | 413,678 | 3,389 | 3.25
+Total interest-earning assets (FTE) | 27,191,094 | 363,881 | 5.32 | 25,993,562 | 354,885 | 5.42
+Noninterest-earning assets:
+Allowance for credit losses | (174,371 | ) | (220,805 | )
+Cash and due from banks | 141,941 | 206,772
+Premises and equipment | 409,860 | 397,490
+Other assets (3) | 1,773,946 | 1,664,648
+Total assets | $ | 29,342,470 | $ | 28,041,667
+Liabilities and Shareholders' Equity:
+Interest-bearing liabilities:
+Interest-bearing deposits:
+NOW and interest-bearing demand | $ | 5,673,191 | 27,877 | 1.95 | $ | 5,825,997 | 35,050 | 2.39
+Money market | 7,252,005 | 45,747 | 2.50 | 6,907,894 | 50,661 | 2.91
+Savings | 1,096,916 | 489 | 0.18 | 1,107,509 | 641 | 0.23
+Time | 3,717,565 | 29,060 | 3.10 | 3,656,172 | 31,602 | 3.43
+Brokered time deposits | 50,699 | 425 | 3.33 | 50,529 | 521 | 4.09
+Total interest-bearing deposits | 17,790,376 | 103,598 | 2.31 | 17,548,101 | 118,475 | 2.68
+Federal funds purchased and other borrowings | 270,956 | 2,546 | 3.73 | 2,284 | 25 | 4.34
+Federal Home Loan Bank advances | 479,674 | 4,684 | 3.87 | — | — | —
+Long-term debt | 33,414 | 526 | 6.25 | 155,197 | 1,721 | 4.40
+Total borrowed funds | 784,044 | 7,756 | 3.92 | 157,481 | 1,746 | 4.40
+Total interest-bearing liabilities | 18,574,420 | 111,354 | 2.38 | 17,705,582 | 120,221 | 2.69
+Noninterest-bearing liabilities:
+Noninterest-bearing deposits | 6,594,562 | 6,366,723
+Other liabilities | 439,078 | 334,443
+Total liabilities | 25,608,060 | 24,406,748
+Shareholders' equity | 3,734,410 | 3,634,919
+Total liabilities and shareholders' equity | $ | 29,342,470 | $ | 28,041,667
+Net interest revenue (FTE) | $ | 252,527 | $ | 234,664
+Net interest-rate spread (FTE) | 2.94 | % | 2.73 | %
+Net interest margin (FTE) (4) | 3.68 | % | 3.58 | %
+(1) | Interest revenue on tax-exempt securities and loans includes a taxable-equivalent adjustment to reflect comparable interest on taxable securities and loans. The FTE adjustment totaled $1.32 million and $1.04 million, respectively, for the three months ended September 30, 2026 and 2025. The tax rate used to calculate the adjustment was 25%, reflecting the statutory federal income tax rate and the federal tax adjusted state income tax rate.
+(2) | Included in the average balance of loans outstanding are loans on which the accrual of interest has been discontinued.
+(3) | Unrealized gains and losses on AFS securities, including those related to the transfer from AFS to HTM have been reclassified to other assets. Pretax unrealized losses of $207 million in 2026 and $223 million in 2025 are included in other assets for purposes of this presentation.
+(4) | Net interest margin is taxable equivalent net interest revenue divided by average interest-earning assets.
+UNITED COMMUNITY BANKS, INC.
+Average Consolidated Balance Sheets and Net Interest Analysis
+For the Nine Months Ended September 30,
+2026 | 2025
+(dollars in thousands, fully taxable equivalent (FTE)) | Average Balance | Interest | Average Rate | Average Balance | Interest | Average Rate
+Assets:
+Interest-earning assets:
+Loans, net of unearned income (FTE) (1)(2) | $ | 19,641,031 | $ | 885,136 | 6.03 | % | $ | 18,632,384 | $ | 859,678 | 6.17 | %
+Taxable securities (3) | 6,077,529 | 141,969 | 3.11 | 6,480,641 | 162,885 | 3.35
+Tax-exempt securities (FTE) (1)(3) | 315,238 | 6,480 | 2.74 | 354,115 | 6,730 | 2.53
+Other interest-earning assets | 495,951 | 10,957 | 2.95 | 422,123 | 10,288 | 3.26
+Total interest-earning assets (FTE) | 26,529,749 | 1,044,542 | 5.26 | 25,889,263 | 1,039,581 | 5.37
+Non-interest-earning assets:
+Allowance for loan losses | (200,588 | ) | (217,050 | )
+Cash and due from banks | 163,633 | 210,027
+Premises and equipment | 399,958 | 397,395
+Other assets (3) | 1,720,642 | 1,637,493
+Total assets | $ | 28,613,394 | $ | 27,917,128
+Liabilities and Shareholders' Equity:
+Interest-bearing liabilities:
+Interest-bearing deposits:
+NOW and interest-bearing demand | $ | 5,759,773 | 84,124 | 1.95 | $ | 6,002,702 | 109,396 | 2.44
+Money market | 6,956,477 | 127,596 | 2.45 | 6,713,585 | 149,805 | 2.98
+Savings | 1,093,764 | 1,452 | 0.18 | 1,133,078 | 2,722 | 0.32
+Time | 3,677,005 | 85,198 | 3.10 | 3,545,792 | 93,029 | 3.51
+Brokered time deposits | 53,843 | 1,360 | 3.38 | 50,488 | 1,593 | 4.22
+Total interest-bearing deposits | 17,540,862 | 299,730 | 2.28 | 17,445,645 | 356,545 | 2.73
+Federal funds purchased and other borrowings | 182,712 | 5,097 | 3.73 | 29,865 | 1,215 | 5.44
+Federal Home Loan Bank advances | 299,963 | 8,667 | 3.86 | 12,824 | 433 | 4.51
+Long-term debt | 68,443 | 2,528 | 4.94 | 215,440 | 7,198 | 4.47
+Total borrowed funds | 551,118 | 16,292 | 3.95 | 258,129 | 8,846 | 4.58
+Total interest-bearing liabilities | 18,091,980 | 316,022 | 2.34 | 17,703,774 | 365,391 | 2.76
+Noninterest-bearing liabilities:
+Noninterest-bearing deposits | 6,428,647 | 6,304,792
+Other liabilities | 397,842 | 350,211
+Total liabilities | 24,918,469 | 24,358,777
+Shareholders' equity | 3,694,925 | 3,558,351
+Total liabilities and shareholders' equity | $ | 28,613,394 | $ | 27,917,128
+Net interest revenue (FTE) | $ | 728,520 | $ | 674,190
+Net interest-rate spread (FTE) | 2.92 | % | 2.61 | %
+Net interest margin (FTE) (4) | 3.67 | % | 3.48 | %
+(1) | Interest revenue on tax-exempt securities and loans includes a taxable-equivalent adjustment to reflect comparable interest on taxable securities and loans. The FTE adjustment totaled $3.65 million and $3.01 million, respectively, for the nine months ended September 30, 2026 and 2025. The tax rate used to calculate the adjustment was 25%, reflecting the statutory federal income tax rate and the federal tax adjusted state income tax rate.
+(2) | Included in the average balance of loans outstanding are loans on which the accrual of interest has been discontinued and loans that are held for sale.
+(3) | Unrealized gains and losses on AFS securities, including those related to the transfer from AFS to HTM have been reclassified to other assets. Pretax unrealized losses of $192 million in 2026 and $244 million in 2025 are included in other assets for purposes of this presentation.
+(4) | Net interest margin is taxable equivalent net-interest revenue divided by average interest-earning assets.
+UNITED COMMUNITY BANKS, INC.
+Non-GAAP Performance Measures Reconciliation
+Selected Financial Information
+(in thousands, except per share data)
+2026 | 2025 | For the Nine Months Ended September 30,
+Third Quarter | Second Quarter | First Quarter | Fourth Quarter | Third Quarter | 2026 | 2025
+Noninterest income reconciliation
+Noninterest income (GAAP) | $ | (263,172 | ) | $ | 38,380 | $ | 43,746 | $ | 40,462 | $ | 43,219 | $ | (181,046 | ) | $ | 113,583
+Loss on securities portfolio repositioning | 366,101 | — | — | — | — | 366,101 | —
+Gain on sale on Navitas | (62,230 | ) | — | — | — | — | (62,230 | ) | —
+Gain on terminated cash flow hedge | — | — | (5,184 | ) | — | — | (5,184 | ) | —
+Noninterest income - operating | $ | 40,699 | $ | 38,380 | $ | 38,562 | $ | 40,462 | $ | 43,219 | $ | 117,641 | $ | 113,583
+Total revenue reconciliation
+Total revenue (GAAP) | $ | (11,966 | ) | $ | 279,280 | $ | 276,510 | $ | 278,388 | $ | 276,848 | $ | 543,824 | $ | 784,764
+Loss on securities portfolio repositioning | 366,101 | — | — | — | — | 366,101 | —
+Gain on sale on Navitas | (62,230 | ) | — | — | — | — | (62,230 | ) | —
+Gain on terminated cash flow hedge | — | — | (5,184 | ) | — | — | (5,184 | ) | —
+Total revenue - operating | $ | 291,905 | $ | 279,280 | $ | 271,326 | $ | 278,388 | $ | 276,848 | $ | 842,511 | $ | 784,764
+Provision for credit losses reconciliation
+Provision for credit losses (GAAP) | $ | 10,013 | $ | (29,803 | ) | $ | 10,853 | $ | 13,662 | $ | 7,907 | $ | (8,937 | ) | $ | 35,144
+Release of ACL on equipment finance loans | — | 38,477 | — | — | — | 38,477 | —
+Provision for credit losses - operating | $ | 10,013 | $ | 8,674 | $ | 10,853 | $ | 13,662 | $ | 7,907 | $ | 29,540 | $ | 35,144
+Noninterest expense reconciliation
+Noninterest expense (GAAP) | $ | 162,241 | $ | 159,915 | $ | 157,302 | $ | 152,048 | $ | 150,868 | $ | 479,458 | $ | 439,886
+Payroll transition bonus | — | — | (6,704 | ) | — | — | (6,704 | ) | —
+FDIC special assessment accrual reversal | — | — | 1,885 | — | — | 1,885 | —
+Merger-related and other charges | (6,509 | ) | (895 | ) | (873 | ) | (606 | ) | (3,468 | ) | (8,277 | ) | (9,598 | )
+Noninterest expense - operating | $ | 155,732 | $ | 159,020 | $ | 151,610 | $ | 151,442 | $ | 147,400 | $ | 466,362 | $ | 430,288
+Net income to operating income reconciliation
+Net income (GAAP) | $ | (139,745 | ) | $ | 115,638 | $ | 84,289 | $ | 86,455 | $ | 91,494 | $ | 60,182 | $ | 241,640
+Loss on securities portfolio repositioning | 366,101 | — | — | — | — | 366,101 | —
+Gain on sale on Navitas | (62,230 | ) | — | — | — | — | (62,230 | ) | —
+Gain on terminated cash flow hedge | — | — | (5,184 | ) | — | — | (5,184 | ) | —
+Release of ACL on equipment finance loans | — | (38,477 | ) | — | — | — | (38,477 | ) | —
+Payroll transition bonus | — | — | 6,704 | — | — | 6,704 | —
+FDIC special assessment accrual reversal | — | — | (1,885 | ) | — | — | (1,885 | ) | —
+Merger-related and other charges | 6,509 | 895 | 873 | 606 | 3,468 | 8,277 | 9,598
+Income tax benefit of non-operating items | (76,932 | ) | 8,347 | (113 | ) | (133 | ) | (751 | ) | (68,698 | ) | (2,079 | )
+Net income - operating | $ | 93,703 | $ | 86,403 | $ | 84,684 | $ | 86,928 | $ | 94,211 | $ | 264,790 | $ | 249,159
+Net income to pre-tax pre-provision income reconciliation
+Net income (GAAP) | $ | (139,745 | ) | $ | 115,638 | $ | 84,289 | $ | 86,455 | $ | 91,494 | $ | 60,182 | $ | 241,640
+Income tax (benefit) expense | (44,475 | ) | 33,530 | 24,066 | 26,223 | 26,579 | 13,121 | 68,094
+Provision for credit losses | 10,013 | (29,803 | ) | 10,853 | 13,662 | 7,907 | (8,937 | ) | 35,144
+Pre-tax pre-provision income | $ | (174,207 | ) | $ | 119,365 | $ | 119,208 | $ | 126,340 | $ | 125,980 | $ | 64,366 | $ | 344,878
+Diluted income per common share reconciliation
+Diluted income per common share (GAAP) | $ | (1.16 | ) | $ | 0.95 | $ | 0.69 | $ | 0.70 | $ | 0.70 | $ | 0.49 | $ | 1.91
+Loss on securities portfolio repositioning | 2.28 | — | — | — | — | 2.27 | —
+Gain on sale on Navitas | (0.39 | ) | — | — | — | — | (0.39 | ) | —
+Gain on terminated cash flow hedge | — | — | (0.03 | ) | — | — | (0.03 | ) | —
+Release of ACL on equipment finance loans | — | (0.25 | ) | — | — | — | (0.25 | ) | —
+Payroll transition bonus | — | — | 0.04 | — | — | 0.04 | —
+FDIC special assessment accrual reversal | — | — | (0.01 | ) | — | — | (0.01 | ) | —
+Merger-related and other charges | 0.04 | 0.01 | 0.01 | 0.01 | 0.02 | 0.06 | 0.06
+Deemed dividend on preferred stock redemption | — | — | — | — | 0.03 | — | 0.03
+Diluted income per common share - operating | $ | 0.77 | $ | 0.71 | $ | 0.70 | $ | 0.71 | $ | 0.75 | $ | 2.18 | $ | 2.00
+Book value per common share reconciliation
+Book value per common share (GAAP) | $ | 29.27 | $ | 31.27 | $ | 30.54 | $ | 30.17 | $ | 29.44 | $ | 29.27 | $ | 29.44
+Effect of goodwill and other intangibles | (8.47 | ) | (7.96 | ) | (7.98 | ) | (7.93 | ) | (7.85 | ) | (8.47 | ) | (7.85 | )
+Tangible book value per common share | $ | 20.80 | $ | 23.31 | $ | 22.56 | $ | 22.24 | $ | 21.59 | $ | 20.80 | $ | 21.59
+UNITED COMMUNITY BANKS, INC.
+Non-GAAP Performance Measures Reconciliation
+Selected Financial Information
+(in thousands, except per share data)
+2026 | 2025 | For the Nine Months Ended September 30,
+Third Quarter | Second Quarter | First Quarter | Fourth Quarter | Third Quarter | 2026 | 2025
+Return on tangible common equity reconciliation
+Return on common equity (GAAP) | (14.85 | )% | 12.56 | % | 9.35 | % | 9.48 | % | 9.20 | % | 2.18 | % | 8.53 | %
+Loss on securities portfolio repositioning | 29.30 | — | — | — | — | 9.98 | —
+Gain on sale on Navitas | (5.03 | ) | — | — | — | — | (1.71 | ) | —
+Gain on terminated cash flow hedge | — | — | (0.45 | ) | — | — | (0.15 | ) | —
+Release of ACL on equipment finance loans | — | (3.25 | ) | — | — | — | (1.08 | ) | —
+Payroll transition bonus | — | — | 0.58 | — | — | 0.19 | —
+FDIC special assessment accrual reversal | — | — | (0.16 | ) | — | — | (0.05 | ) | —
+Merger-related and other charges | 0.53 | 0.08 | 0.07 | 0.05 | 0.29 | 0.22 | 0.27
+Deemed dividend on preferred stock redemption | — | — | — | — | 0.34 | — | 0.12
+Return on common equity - operating | 9.95 | 9.39 | 9.39 | 9.53 | 9.83 | 9.58 | 8.92
+Effect of goodwill and other intangibles | 3.95 | 3.59 | 3.66 | 3.78 | 3.73 | 3.74 | 3.65
+Return on tangible common equity - operating | 13.90 | % | 12.98 | % | 13.05 | % | 13.31 | % | 13.56 | % | 13.32 | % | 12.57 | %
+Return on assets reconciliation
+Return on assets (GAAP) | (1.89 | )% | 1.63 | % | 1.22 | % | 1.21 | % | 1.29 | % | 0.28 | % | 1.16 | %
+Loss on securities portfolio repositioning | 3.73 | — | — | — | — | 1.29 | —
+Gain on sale on Navitas | (0.64 | ) | — | — | — | — | (0.22 | ) | —
+Gain on terminated cash flow hedge | — | — | (0.06 | ) | — | — | (0.02 | ) | —
+Release of ACL on equipment finance loans | — | (0.42 | ) | — | — | — | (0.14 | ) | —
+Payroll transition bonus | — | — | 0.07 | — | — | 0.02 | —
+FDIC special assessment accrual reversal | — | — | (0.02 | ) | — | — | (0.01 | ) | —
+Merger-related and other charges | 0.07 | 0.01 | 0.01 | 0.01 | 0.04 | 0.04 | 0.03
+Return on assets - operating | 1.27 | % | 1.22 | % | 1.22 | % | 1.22 | % | 1.33 | % | 1.24 | % | 1.19 | %
+Return on assets to return on assets- pre-tax pre-provision reconciliation
+Return on assets (GAAP) | (1.89 | )% | 1.63 | % | 1.22 | % | 1.21 | % | 1.29 | % | 0.28 | % | 1.16 | %
+Income tax expense | (0.60 | ) | 0.47 | 0.35 | 0.37 | 0.38 | 0.06 | 0.33
+Provision for credit losses | 0.14 | (0.42 | ) | 0.16 | 0.19 | 0.11 | (0.04 | ) | 0.17
+Loss on securities portfolio repositioning | 4.95 | — | — | — | — | 1.71 | —
+Gain on sale on Navitas | (0.84 | ) | — | — | — | — | (0.29 | ) | —
+Gain on terminated cash flow hedge | — | — | (0.08 | ) | — | — | (0.02 | ) | —
+Payroll transition bonus | — | — | 0.10 | — | — | 0.03 | —
+FDIC special assessment accrual reversal | — | — | (0.03 | ) | — | — | (0.01 | ) | —
+Merger-related and other charges | 0.08 | 0.02 | 0.01 | 0.01 | 0.05 | 0.04 | 0.04
+Return on assets - pre-tax pre-provision - operating | 1.84 | % | 1.70 | % | 1.73 | % | 1.78 | % | 1.83 | % | 1.76 | % | 1.70 | %
+Efficiency ratio reconciliation
+Efficiency ratio (GAAP) | n/m | 57.01 | % | 56.66 | % | 54.40 | % | 54.30 | % | 87.58 | % | 55.86 | %
+Loss on securities portfolio repositioning | n/m | — | — | — | — | (35.09 | ) | —
+Gain on sale on Navitas | n/m | — | — | — | — | 3.84 | —
+Gain on terminated cash flow hedge | — | — | 1.03 | — | — | 0.35 | —
+Payroll transition bonus | — | — | (2.41 | ) | — | — | (0.79 | ) | —
+FDIC special assessment accrual reversal | — | — | 0.68 | — | — | 0.22 | —
+Merger-related and other charges | (2.22 | ) | (0.32 | ) | (0.31 | ) | (0.21 | ) | (1.25 | ) | (0.99 | ) | (1.22 | )
+Efficiency ratio - operating | 53.11 | % | 56.69 | % | 55.65 | % | 54.19 | % | 53.05 | % | 55.12 | % | 54.64 | %
+Tangible common equity to tangible assets reconciliation
+Equity to total assets (GAAP) | 12.14 | % | 12.89 | % | 12.97 | % | 12.99 | % | 12.78 | % | 12.14 | % | 12.78 | %
+Effect of goodwill and other intangibles | (3.19 | ) | (2.95 | ) | (3.05 | ) | (3.07 | ) | (3.07 | ) | (3.19 | ) | (3.07 | )
+Tangible common equity to tangible assets | 8.95 | % | 9.94 | % | 9.92 | % | 9.92 | % | 9.71 | % | 8.95 | % | 9.71 | %
+About United Community Banks, Inc.
+United Community Banks, Inc. (NYSE: UCB) is the financial holding company for United Community Bank (United Community), a top-100 U.S. financial institution committed to building stronger communities and improving the financial health and well-being of its customers. United Community offers a full range of banking, mortgage and wealth management services. As of September 30, 2026, United had $28.9 billion in assets and operated 202 offices across Alabama, Florida, Georgia, North Carolina, South Carolina and Tennessee. The company also manages a nationally recognized SBA lending franchise, extending its reach to businesses across the country. United Community is the most awarded bank in the Southeast for Retail Banking Customer Satisfaction by J.D. Power, earning more awards than any other bank in the region, including recognition in 12 of the last 17 years. The company has also been named one of the “Best Banks to Work For” by American Banker for nine consecutive years. In commercial banking, United Community earned multiple 2026 Greenwich Best Bank awards for Small Business Banking. Forbes has consistently named United Community among the World’s Best and America’s Best Banks. Learn more at ucbi.com.
+Non-GAAP Financial Measures
+This press release, including the accompanying financial statement tables, contains financial information determined by methods other than in accordance with generally accepted accounting principles, or GAAP. This financial information includes certain operating performance measures, which exclude merger-related and other charges that are not considered part of recurring operations, such as “noninterest income – operating”, “total revenue – operating”, “noninterest expense - operating”, “provision for credit losses – operating”, “operating net income,” “pre-tax, pre-provision income,” “operating net income per diluted common share,” “operating earnings per share,” “tangible book value per common share,” “operating return on common equity,” “operating return on tangible common equity,” “operating return on assets,” “return on assets - pre-tax, pre-provision - operating,” “return on assets - pre-tax, pre-provision,” “operating efficiency ratio,” and “tangible common equity to tangible assets.” These non-GAAP measures are included because United believes they may provide useful supplemental information for evaluating United’s underlying performance trends. These measures should be viewed in addition to, and not as an alternative to or substitute for, measures determined in accordance with GAAP, and are not necessarily comparable to non-GAAP measures that may be presented by other companies. To the extent applicable, reconciliations of these non-GAAP measures to the most directly comparable measures as reported in accordance with GAAP are included with the accompanying financial statement tables.
+Caution About Forward-Looking Statements
+This press release contains “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. In general, forward-looking statements usually may be identified through use of words such as “may,” “believe,” “expect,” “anticipate,” “intend,” “will,” “should,” “plan,” “estimate,” “predict,” “continue” and “potential” or the negative of these terms or other comparable terminology. Forward-looking statements are not historical facts and represent management’s beliefs, based upon information available at the time the statements are made, with regard to the matters addressed; they are not guarantees of future performance. Actual results may prove to be materially different from the results expressed or implied by the forward-looking statements. Forward-looking statements are subject to numerous assumptions, risks and uncertainties that change over time and could cause actual results or financial condition to differ materially from those expressed in or implied by such statements.
+Factors that could cause or contribute to such differences include, but are not limited to general competitive, economic, political, regulatory and market conditions. Further information regarding additional factors which could affect the forward-looking statements contained in this press release can be found in the cautionary language included under the headings “Cautionary Note Regarding Forward-Looking Statements” and “Risk Factors” in United’s Annual Report on Form 10-K for the year ended December 31, 2025, and other documents subsequently filed by United with the United States Securities and Exchange Commission (“SEC”).
+Many of these factors are beyond United’s ability to control or predict. If one or more events related to these or other risks or uncertainties materialize, or if the underlying assumptions prove to be incorrect, actual results may differ materially from the forward-looking statements. Accordingly, shareholders and investors should not place undue reliance on any such forward-looking statements. Any forward-looking statement speaks only as of the date of this communication, and United undertakes no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law. New risks and uncertainties may emerge from time to time, and it is not possible for United to predict their occurrence or how they will affect United.
+United qualifies all forward-looking statements by these cautionary statements.
+# # #

@@ -1,0 +1,397 @@
+Company: SEI INVESTMENTS CO (CIK 350894)
+Accession: 0000350894-26-000051
+Results released: 2026-10-21
+Press release: https://www.sec.gov/Archives/edgar/data/350894/000035089426000051/seic-earningsreleaseex9911.htm
+Filing: https://www.sec.gov/Archives/edgar/data/350894/000035089426000051/0000350894-26-000051-index.htm
+Saved: 2026-10-25T21:40:32+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 seic-earningsreleaseex9911.htm PRESS RELEASE
+SEI Reports Third-Quarter 2026 Financial Results
+OAKS, Pa., Oct. 21, 2026 – SEI Investments Company (NASDAQ:SEIC) today announced financial results for the third quarter 2026. Relative to the third quarter 2025, EPS increased by 6%, and revenue and operating income grew by 14% and 24%, respectively, with operating margin increasing to 30%. On an adjusted basis, EPS and operating income grew 24% and 25%, respectively, with the adjusted operating margin increasing to 31%. In addition, on October 20, 2026, SEI's Board of Directors approved an increase in the stock repurchase program by an additional $800 million, increasing the available authorization under the program to approximately $926 million.
+Consolidated Overview
+(In thousands, except earnings per share) | For the Three Months Ended September 30, | For the Nine Months Ended September 30,
+2026 | 2025 | % | 2026 | 2025 | %
+U.S. GAAP Basis
+Revenues | $662,043 | $578,511 | 14% | $1,925,843 | $1,689,456 | 14%
+Income from operations | 197,999 | 159,961 | 24% | 584,501 | 465,693 | 26%
+Operating margin | 30 | % | 28 | % | 7% | 30 | % | 28 | % | 7%
+Net income attributable to SEI Investments | 168,258 | 164,204 | 2% | 538,403 | 542,804 | (1)%
+Diluted earnings per share | $1.38 | $1.30 | 6% | $4.37 | $4.25 | 3%
+Non-GAAP Basis(1)
+Adjusted income from operations | $208,493 | $166,896 | 25% | $614,127 | $480,054 | 28%
+Adjusted diluted earnings per share | $1.64 | $1.32 | 24% | $4.73 | $3.71 | 27%
+Adjusted operating margin | 31 | % | 29 | % | 7% | 32 | % | 28 | % | 14%
+(1) See Non-GAAP Information and Reconciliations on pgs 11-12
+“SEI’s third-quarter results reinforce our confidence in the strategy and operating model we have put in place. Our growth is broad-based, our client relationships are becoming deeper and more strategic, and our year-to-date sales results have already surpassed the highest full-year total in SEI’s history,” said CEO Ryan Hicke.
+“We are increasingly engaging with clients not as a vendor, but as a growth and transformation partner, bringing together our technology, operations, data, investment solutions, and expertise to help them achieve their most important business objectives. We remain focused on executing with discipline, investing where we can create differentiated value, and building a more scalable business that can deliver durable growth for our clients and shareholders.”
+1
+Summary of Third-Quarter Results by Business Segment
+(In thousands) | For the Three Months Ended September 30, | For the Nine Months Ended September 30,
+2026 | 2025 | % | 2026 | 2025 | %
+Investment Managers:
+Revenues | $235,817 | $207,050 | 14% | $684,213 | $594,165 | 15%
+Expenses | 143,562 | 125,934 | 14% | 413,479 | 364,781 | 13%
+Operating Profit | 92,255 | 81,116 | 14% | 270,734 | 229,384 | 18%
+Operating Margin | 39 | % | 39 | % | 40 | % | 39 | %
+Private Banks:
+Revenues | 160,439 | 143,994 | 11% | 469,580 | 423,157 | 11%
+Expenses | 128,275 | 120,763 | 6% | 373,526 | 354,236 | 5%
+Operating Profit | 32,164 | 23,231 | 38% | 96,054 | 68,921 | 39%
+Operating Margin | 20 | % | 16 | % | 20 | % | 16 | %
+Investment Advisors:
+Revenues | 185,378 | 147,465 | 26% | 532,970 | 421,234 | 27%
+Expenses | 107,678 | 79,128 | 36% | 305,901 | 227,384 | 35%
+Non-controlling interests and other, net (A) | 2,034 | — | NM* | 4,732 | — | NM
+Operating Profit | 75,666 | 68,337 | 11% | 222,337 | 193,850 | 15%
+Operating Margin | 41 | % | 46 | % | 42 | % | 46 | %
+Institutional Investors:
+Revenues | 70,638 | 71,826 | (2)% | 211,856 | 209,675 | 1%
+Expenses | 37,801 | 38,068 | (1)% | 111,764 | 109,795 | 2%
+Operating Profit | 32,837 | 33,758 | (3)% | 100,092 | 99,880 | —%
+Operating Margin | 46 | % | 47 | % | 47 | % | 48 | %
+Investments in New Businesses:
+Revenues | 9,771 | 8,176 | 20% | 27,224 | 41,225 | (34)%
+Expenses | 10,588 | 11,863 | (11)% | 29,820 | 48,789 | (39)%
+Operating Loss | (817) | (3,687) | (78)% | (2,596) | (7,564) | (66)%
+Totals:
+Revenues | $662,043 | $578,511 | 14% | $1,925,843 | $1,689,456 | 14%
+Expenses | 427,904 | 375,756 | 14% | 1,234,490 | 1,104,985 | 12%
+Corporate Overhead Expenses | 36,140 | 42,794 | (16)% | 106,852 | 118,778 | (10)%
+Income from operations (B) | $197,999 | $159,961 | 24% | $584,501 | $465,693 | 26%
+Adjusted income from operations | $208,493 | $166,896 | 25% | $614,127 | $480,054 | 28%
+(A) Primarily includes non-controlling interest and earnings from equity method investments.
+(B) Excludes non-controlling interests and other, net
+* Variances noted "NM" indicate the percent change is not meaningful.
+2
+Third-Quarter Business Highlights:
+•SEI delivered strong third-quarter results, with diluted EPS increasing 6% compared to the prior year. On an adjusted basis, diluted EPS increased 24% to $1.64, driven by revenue growth, margin expansion, and a 3% reduction in share count from SEI's share repurchase program.
+◦Third-quarter operating income included $6.4 million of additional incentive compensation expense associated with the strength of year-to-date performance and the current outlook for the remainder of the year.
+•Third-quarter net sales events totaled $46.8 million, the second-highest quarterly level in SEI history, bringing year-to-date net sales events to $157.4 million.
+◦Investment Managers led the quarter with $32.0 million of net sales events, with contributions from both new client wins and expansions with existing clients.
+◦Private Banks generated $12.6 million of net sales events, reflecting continued demand across enterprise transformation initiatives, professional services, Data Cloud capabilities, and asset management solutions.
+◦Investment Advisors generated $2.4 million of net sales events, while Institutional Investors recorded negative $2.3 million of net sales events.
+•Consolidated revenues and operating income increased by 14% and 24%, respectively, from Q3 2025. On an adjusted basis, operating income increased by 25% with adjusted operating margins increasing to 31%, up 260 basis points from Q3 2025.
+◦Private Banking revenue increased 11% and operating profit increased 38%, demonstrating strong operating leverage as the business continues to grow, including increased adoption of professional services.
+◦Investment Managers revenue and operating profit increased 14% as prior sales success continued to convert into revenue and demand for outsourcing solutions remained strong. Absent the elevated incentive compensation accrual, Investment Managers operating profit would have increased by 17% vs. the prior year.
+◦Investment Advisors revenue increased 26% and operating profit increased 11%, benefiting from Stratos and growth in the underlying Advisors business. Stratos contributed $23.3 million of revenue and $4.4 million of operating profit, including $7.3 million of acquired intangible amortization. Excluding Stratos, Advisors revenue increased 10% and operating profit increased 7%. SEI's integrated cash program contributed $20.8 million during the quarter, matching Q3 2025.
+◦Institutional Investors revenue declined 2% and operating profit declined 3%, reflecting prior client outflows.
+•Ending assets under management decreased 0.1% to $606.4 billion from Q2 2026, as market values and net flows were little changed. Assets under administration, assets on platform, and assets under advisement increased 4% during the quarter, driven primarily by continued growth in Investment Managers, including funding from recently won mandates and additional client capital deployment.
+•LSV assets declined 1% from Q2 as strong investment performance was offset by $5.3 billion of net outflows. Performance fees totaled $4.5 million during the quarter at SEI's share.
+•SEI repurchased 2.0 million shares of common stock for $215.1 million at an average price of $105.24 per share. SEI ended the quarter with $399.8 million of cash and recently authorized an additional $800 million of share repurchase capacity.
+•Other expenses consist of a $32.5 million one-time charge associated with the termination agreement with Stratos to purchase their Mexican based subsidiary, NSC.
+3
+Earnings Conference Call
+A conference call and presentation to review earnings is scheduled for 5 p.m. Eastern time on
+Wednesday, October 21, 2026. A live webcast of the call will be available on SEI's Investor Relations website at ir.seic.com/events-presentations/events, where a replay will also be posted following the call.
+Participants may also access the call by telephone by dialing 877-407-8293 (in the U.S.) or +1 201-689-8349 (International). Please dial in at least 10 minutes prior to the start of the call.
+About SEI®
+SEI (NASDAQ:SEIC) is a leading global provider of financial technology, operations, and asset management services within the financial services industry. SEI tailors its solutions and services to help clients more effectively deploy their capital—whether that’s money, time, or talent—so they can better serve their clients and achieve their growth objectives. As of September 30, 2026, SEI manages, advises, or administers approximately $2.1 trillion in assets. For more information, visit seic.com.
+This release contains forward-looking statements within the meaning of the rules and regulations of the Securities and Exchange Commission. In some cases you can identify forward-looking statements by terminology, such as "may," '"will," "can," "expect," "believe," "remain," and "continue" or "appear." Our forward-looking statements include our current expectations as to:
+•whether year-end performance will be of a level sufficient to justify incentive compensation awards consistent with increased accruals;
+•the level of share buy-backs;
+•the growth trajectory of our assets under administration and Private Banking business;
+•the demand for outsourcing services and enterprise transformation initiatives; and
+•when and if we will generate net annualized recurring revenues from sales events that occurred during the quarter, as well as the amount of any such revenue.
+You should not place undue reliance on our forward-looking statements, as they are based on the current beliefs and expectations of our management and subject to significant risks and uncertainties, many of which are beyond our control or are subject to change. Although we believe the assumptions upon which we base our forward-looking statements are reasonable, they could be inaccurate. We undertake no obligation to update our forward-looking statements. Some of the risks and important factors that could cause actual results to differ from those described in our forward-looking statements can be found in the “Risk Factors” section of our Annual Report on Form 10-K for the year ended December 31, 2025, filed with the Securities and Exchange Commission.
+Investor contact: | Media contact:
+Brad Burke | Alicia Rudd
+SEI | SEI
++1610-676-5350 | +1 610-676-3887
+bburke2@seic.com | arudd@seic.com
+4
+SEI INVESTMENTS COMPANY
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(In thousands, except per share data) (Unaudited)
+For the Three Months Ended September 30, | For the Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Asset management, admin. and distribution fees | $531,417 | $461,964 | $1,542,883 | $1,331,650
+Information processing and software servicing fees | 130,626 | 116,547 | 382,960 | 357,806
+Total revenues | 662,043 | 578,511 | 1,925,843 | 1,689,456
+Subadvisory, distribution and other asset mgmt. costs | 61,194 | 55,072 | 177,920 | 152,313
+Software royalties and other information processing costs | 9,878 | 9,434 | 29,487 | 27,706
+Compensation, benefits and other personnel | 220,069 | 203,739 | 634,223 | 594,097
+Stock-based compensation | 16,000 | 13,956 | 46,809 | 41,985
+Consulting, outsourcing and professional fees | 58,394 | 54,401 | 169,066 | 167,344
+Data processing and computer related | 49,388 | 41,569 | 141,123 | 122,689
+Facilities, supplies and other costs | 22,318 | 20,982 | 64,093 | 61,481
+Amortization | 19,684 | 11,912 | 57,175 | 33,071
+Depreciation | 7,119 | 7,485 | 21,446 | 23,077
+Total expenses | 464,044 | 418,550 | 1,341,342 | 1,223,763
+Income from operations | 197,999 | 159,961 | 584,501 | 465,693
+Net gain from investments | 1,206 | 1,992 | 4,387 | 4,244
+Interest and dividend income | 6,866 | 10,207 | 21,040 | 29,711
+Interest expense | (606) | (109) | (1,641) | (386)
+Gain on sale of business | — | — | — | 94,412
+Other (expense) income | (32,500) | 4,922 | (32,050) | 9,422
+Equity in earnings of unconsolidated affiliates | 39,819 | 31,903 | 110,989 | 94,290
+Net gain from consolidated variable interest entities | 1,809 | 1,845 | 11,363 | 1,845
+Income before income taxes | 214,593 | 210,721 | 698,589 | 699,231
+Income taxes | 43,346 | 46,135 | 151,015 | 156,045
+Net income | $171,247 | $164,586 | $547,574 | $543,186
+Less: Net income attributable to non-controlling interests | 2,989 | 382 | 9,171 | 382
+Net income attributable to SEI Investments Company | $168,258 | $164,204 | $538,403 | $542,804
+Basic earnings per common share | $1.42 | $1.33 | $4.48 | $4.35
+Shares used to calculate basic earnings per share | 118,415 | 123,099 | 120,138 | 124,710
+Diluted earnings per common share | $1.38 | $1.30 | $4.37 | $4.25
+Shares used to calculate diluted earnings per share | 122,012 | 126,325 | 123,280 | 127,684
+Dividends declared per common share | $— | $— | $0.52 | $0.49
+5
+SEI INVESTMENTS COMPANY
+CONSOLIDATED CONDENSED BALANCE SHEETS
+(In thousands) (Unaudited)
+September 30, | December 31,
+2026 | 2025
+Assets
+Current Assets:
+Cash and cash equivalents | $399,766 | $399,804
+Receivables from investment products | 59,278 | 63,317
+Receivables, net | 851,279 | 709,748
+Securities owned | 25,750 | 33,777
+Other current assets | 75,611 | 66,691
+Total Current Assets | 1,411,684 | 1,273,337
+Property and Equipment, net | 153,496 | 150,434
+Operating Lease Right-of-Use Assets | 30,186 | 26,447
+Capitalized Software, net | 224,189 | 234,272
+Investments | 335,895 | 428,004
+Assets of Consolidated Variable Interest Entities | 223,785 | 183,994
+Goodwill | 392,205 | 354,989
+Intangible assets, net | 481,727 | 368,272
+Other Assets, net | 181,472 | 240,095
+Total Assets | $3,434,639 | $3,259,844
+Liabilities, Redeemable Non-controlling Interests and Equity
+Current Liabilities:
+Accounts payable | $13,905 | $5,404
+Accrued liabilities | 284,920 | 359,823
+Current portion of long-term debt | 5,754 | —
+Current portion of long-term operating lease liabilities | 9,124 | 8,677
+Deferred revenue | 13,648 | 13,307
+Total Current Liabilities | 327,351 | 387,211
+Long-term Debt | 30,951 | —
+Liabilities of Consolidated Variable Interest Entities | 136,536 | 108,504
+Other Long-term Liabilities | 62,503 | 60,353
+Total Liabilities | 557,341 | 556,068
+Redeemable Non-controlling Interests | 323,105 | 243,959
+Equity:
+Shareholders' Equity:
+Common stock, $0.01 par value, 750,000 shares authorized; 118,942 and 122,232 shares issued and outstanding | 1,189 | 1,222
+Capital in excess of par value | 1,758,970 | 1,678,787
+Retained earnings | 785,633 | 792,280
+Accumulated other comprehensive loss, net | (33,229) | (24,505)
+Total SEI Shareholders' Equity | 2,512,563 | 2,447,784
+Non-controlling interests | 41,630 | 12,033
+Total Equity | $2,554,193 | $2,459,817
+Total Liabilities, Redeemable Non-controlling Interests and Equity | $3,434,639 | $3,259,844
+6
+SEI INVESTMENTS COMPANY
+CONSOLIDATED CONDENSED STATEMENTS OF CASH FLOWS
+(In thousands) (Unaudited)
+For the Nine Months Ended September 30,
+2026 | 2025
+Cash flows from operating activities:
+Net income | $547,574 | $543,186
+Adjustments to reconcile net income to net cash provided by operating activities: | 17,753 | (61,922)
+Net cash provided by operating activities | $565,327 | $481,264
+Net cash (used in) provided by investing activities | ($32,087) | $40,497
+Net cash used in financing activities | ($512,509) | ($516,474)
+Effect of exchange rate changes on cash, cash equivalents | (6,103) | 11,953
+Net change in cash and cash equivalents and cash and cash equivalents held at consolidated variable interest entities | 14,628 | 17,240
+Cash, cash equivalents and cash and cash equivalents held at consolidated variable interest entities, beginning of period | 470,595 | 840,193
+Cash, cash equivalents and cash and cash equivalents held at consolidated variable interest entities, end of period | $485,223 | $857,433
+Reconciliation of Cash, cash equivalents and cash and cash equivalents held at consolidated variable interest entities to the Consolidated Balance Sheets: | September 30, | December 31,
+2026 | 2025
+Cash and cash equivalents | $399,766 | $399,804
+Cash and cash equivalents held at consolidated variable interest entities | 85,457 | 70,791
+Total cash and cash equivalents and cash and cash equivalents held at consolidated variable interest entities | $485,223 | $470,595
+7
+ENDING ASSET BALANCES
+(In millions) (Unaudited)
+Sep. 30 | Dec. 31 | Mar. 31 | Jun. 30 | Sep. 30
+2025 | 2025 | 2026 | 2026 | 2026
+Investment Managers:
+Collective trust fund programs (A) | $237,964 | $243,244 | $243,900 | $265,265 | $267,693
+Liquidity funds | 418 | 579 | 536 | 464 | 493
+Total assets under management | $238,382 | $243,823 | $244,436 | $265,729 | $268,186
+Client assets under administration | 1,204,843 | 1,239,606 | 1,284,781 | 1,351,307 | 1,400,810
+Total assets | $1,443,225 | $1,483,429 | $1,529,217 | $1,617,036 | $1,668,996
+Private Banks:
+Equity and fixed-income programs | $28,408 | $29,832 | $29,753 | $32,520 | $32,949
+Collective trust fund programs | 3 | 3 | 4 | 4 | 4
+Liquidity funds | 2,802 | 2,099 | 2,178 | 1,709 | 1,646
+Total assets under management | $31,213 | $31,934 | $31,935 | $34,233 | $34,599
+Client assets under administration | 8,902 | 9,115 | 9,143 | 9,405 | 9,784
+Total assets | $40,115 | $41,049 | $41,078 | $43,638 | $44,383
+Investment Advisors:
+Equity and fixed-income programs | $85,245 | $86,879 | $86,612 | $94,390 | $94,470
+Liquidity funds | 3,391 | 3,561 | 3,485 | 3,391 | 3,306
+Total Platform assets under management | $88,636 | $90,440 | $90,097 | $97,781 | $97,776
+Platform-only assets | 32,152 | 33,582 | 34,070 | 38,308 | 38,464
+Platform-only assets-deposit program | 2,165 | 2,461 | 2,294 | 2,358 | 2,326
+Total Platform assets | $122,953 | $126,483 | $126,461 | $138,447 | $138,566
+Institutional Investors:
+Equity and fixed-income programs | $82,676 | $84,254 | $82,195 | $86,690 | $84,533
+Liquidity funds | 1,580 | 1,604 | 1,503 | 1,559 | 1,485
+Total assets under management | $84,256 | $85,858 | $83,698 | $88,249 | $86,018
+Client assets under advisement | 6,564 | 3,598 | 3,549 | 3,790 | 3,776
+Total assets | $90,820 | $89,456 | $87,247 | $92,039 | $89,794
+Investments in New Businesses:
+Equity and fixed-income programs | $2,999 | $3,044 | $3,087 | $3,351 | $3,289
+Liquidity funds | 244 | 316 | 252 | 236 | 404
+Total assets under management | $3,243 | $3,360 | $3,339 | $3,587 | $3,693
+Client assets under advisement | 2,452 | 2,389 | 2,185 | 2,506 | 2,613
+Total assets | $5,695 | $5,749 | $5,524 | $6,093 | $6,306
+LSV Asset Management:
+Equity and fixed-income programs (B) | $95,801 | $99,196 | $100,567 | $117,146 | $116,080
+Stratos Wealth Holdings (E) | $— | $38,637 | $38,291 | $41,889 | $41,655
+Total:
+Equity and fixed-income programs (C) | $295,129 | $303,205 | $302,214 | $334,097 | $331,321
+Collective trust fund programs | 237,967 | 243,247 | 243,904 | 265,269 | 267,697
+Liquidity funds | 8,435 | 8,159 | 7,954 | 7,359 | 7,334
+Total assets under management | $541,531 | $554,611 | $554,072 | $606,725 | $606,352
+Client assets under advisement | 9,016 | 5,987 | 5,734 | 6,296 | 6,389
+Client assets under administration (D) | 1,213,745 | 1,248,721 | 1,293,924 | 1,360,712 | 1,410,594
+Platform-only assets | 34,317 | 36,043 | 36,364 | 40,666 | 40,790
+Stratos Wealth Holdings | — | 38,637 | 38,291 | 41,889 | 41,655
+Total assets | $1,798,609 | $1,883,999 | $1,928,385 | $2,056,288 | $2,105,780
+(A)Collective trust fund program assets in the Investment Managers segment are included in assets under management since SEI is the trustee. Fees earned on this product are less than fees earned on customized asset management programs.
+(B)Equity and fixed-income programs include $1.4 billion of assets managed by LSV in which fees are based solely on performance and are not calculated as an asset-based fee (as of September 30, 2026).
+(C)Equity and fixed-income programs include $9.0 billion of assets in various asset allocation funds (as of September 30, 2026).
+(D) In addition to the assets presented, SEI also administers an additional $16.1 billion in Funds of Funds assets on which SEI does not earn an administration fee (as of September 30, 2026).
+(E) Prior period asset balances have been revised to conform with the current period presentation.
+8
+AVERAGE ASSET BALANCES
+(In millions) (Unaudited)
+3rd Qtr. | 4th Qtr. | 1st Qtr. | 2nd Qtr. | 3rd Qtr.
+2025 | 2025 | 2026 | 2026 | 2026
+Investment Managers:
+Collective trust fund programs (A) | $231,088 | $240,285 | $248,851 | $259,655 | $267,834
+Liquidity funds | 385 | 492 | 565 | 506 | 569
+Total assets under management | $231,473 | $240,777 | $249,416 | $260,161 | $268,403
+Client assets under administration | 1,174,961 | 1,225,392 | 1,280,581 | 1,332,630 | 1,386,909
+Total assets | $1,406,434 | $1,466,169 | $1,529,997 | $1,592,791 | $1,655,312
+Private Banks:
+Equity and fixed-income programs | $28,051 | $29,087 | $30,696 | $32,005 | $33,201
+Collective trust fund programs | 3 | 3 | 3 | 4 | 4
+Liquidity funds | 2,834 | 2,371 | 2,150 | 1,717 | 1,680
+Total assets under management | $30,888 | $31,461 | $32,849 | $33,726 | $34,885
+Client assets under administration | 8,665 | 8,977 | 9,282 | 9,455 | 9,602
+Total assets | $39,553 | $40,438 | $42,131 | $43,181 | $44,487
+Investment Advisors:
+Equity and fixed-income programs | $82,735 | $85,896 | $88,403 | $92,424 | $95,439
+Liquidity funds | 3,378 | 3,418 | 3,518 | 3,338 | 3,292
+Total Platform assets under management | $86,113 | $89,314 | $91,921 | $95,762 | $98,731
+Platform-only assets | 30,874 | 33,022 | 34,485 | 36,768 | 38,662
+Platform-only assets-deposit program | 2,136 | 2,135 | 2,309 | 2,273 | 2,297
+Total Platform assets | $119,123 | $124,471 | $128,715 | $134,803 | $139,690
+Institutional Investors:
+Equity and fixed-income programs | $80,802 | $83,739 | $84,393 | $85,302 | $86,212
+Liquidity funds | 1,810 | 1,947 | 1,941 | 1,702 | 1,700
+Total assets under management | $82,612 | $85,686 | $86,334 | $87,004 | $87,912
+Client assets under advisement | 6,274 | 5,413 | 3,657 | 3,703 | 3,852
+Total assets | $88,886 | $91,099 | $89,991 | $90,707 | $91,764
+Investments in New Businesses:
+Equity and fixed-income programs | $2,934 | $3,021 | $3,106 | $3,260 | $3,317
+Liquidity funds | 255 | 288 | 319 | 258 | 407
+Total assets under management | $3,189 | $3,309 | $3,425 | $3,518 | $3,724
+Client assets under advisement | 2,428 | 2,408 | 2,335 | 2,425 | 2,632
+Total assets | $5,617 | $5,717 | $5,760 | $5,943 | $6,356
+LSV Asset Management:
+Equity and fixed-income programs (B) | $92,969 | $97,304 | $104,619 | $115,862 | $118,889
+Stratos Wealth Holdings (E) | $— | $38,507 | $39,317 | $40,559 | $41,902
+Total:
+Equity and fixed-income programs (C) | $287,491 | $299,047 | $311,217 | $328,853 | $337,058
+Collective trust fund programs | 231,091 | 240,288 | 248,854 | 259,659 | 267,838
+Liquidity funds | 8,662 | 8,516 | 8,493 | 7,521 | 7,648
+Total assets under management | $527,244 | $547,851 | $568,564 | $596,033 | $612,544
+Client assets under advisement | 8,702 | 7,821 | 5,992 | 6,128 | 6,484
+Client assets under administration (D) | 1,183,626 | 1,234,369 | 1,289,863 | 1,342,085 | 1,396,511
+Platform-only assets | 33,010 | 35,157 | 36,794 | 39,041 | 40,959
+Stratos Wealth Holdings | — | 38,507 | 39,317 | 40,559 | 41,902
+Total assets | $1,752,582 | $1,863,705 | $1,940,530 | $2,023,846 | $2,098,400
+(A) Collective trust fund program average assets in the Investment Managers segment are included in assets under management since SEI is the trustee. Fees earned on this product are less than fees earned on customized asset management programs.
+(B) Equity and fixed-income programs during third-quarter 2026 include $1.4 billion of average assets managed by LSV in which fees are based solely on performance and are not calculated as an asset-based fee.
+(C) Equity and fixed-income programs include $8.9 billion of average assets in various asset allocation funds during third-quarter 2026.
+(D) In addition to the assets presented, SEI also administers an additional $15.2 billion of average assets in Funds of Funds assets during third-quarter 2026 on which SEI does not earn an administration fee.
+(E) Prior period average assets have been revised to conform with the current period presentation.
+9
+SALES EVENTS
+(In thousands) (Unaudited)
+Net Recurring Sales Events
+3rd Qtr. | 4th Qtr. | 1st Qtr. | 2nd Qtr. | 3rd Qtr.
+2025 | 2025 | 2026 | 2026 | 2026
+Investment Processing-related Businesses:
+Investment Managers | $27,460 | $19,150 | $46,848 | $27,856 | $28,606
+Private Banks | (6,713) | 5,670 | 1,571 | 4,207 | 5,598
+Total Investment Processing-related Businesses | $20,747 | $24,820 | $48,419 | $32,063 | $34,204
+Asset Management-related Businesses:
+Private Banks-AMD | ($1,674) | ($1,567) | $1,983 | $2,938 | $2,462
+Investment Advisors | 1,230 | (728) | 7,044 | (1,685) | 2,440
+Institutional Investors | (594) | (5,025) | (2,935) | (1,102) | (2,315)
+Total Asset Management-related Businesses | ($1,038) | ($7,320) | $6,092 | $151 | $2,587
+Newer Initiatives:
+Investments in New Businesses | $1,208 | $1,248 | $2,631 | $361 | $1,811
+Total Net Recurring Sales Events | $20,917 | $18,748 | $57,142 | $32,575 | $38,602
+Professional Services Sales Events
+3rd Qtr. | 4th Qtr. | 1st Qtr. | 2nd Qtr. | 3rd Qtr.
+2025 | 2025 | 2026 | 2026 | 2026
+Investment Processing-related Businesses:
+Investment Managers | $2,465 | $1,347 | $3,672 | $4,179 | $3,406
+Private Banks | 7,087 | 23,409 | 4,950 | 5,934 | 4,514
+Total Investment Processing-related Businesses | $9,552 | $24,756 | $8,622 | $10,113 | $7,920
+Newer Initiatives:
+Investments in New Businesses | $71 | $95 | $1,389 | $768 | $272
+Total Professional Services Sales Events | $9,623 | $24,851 | $10,011 | $10,881 | $8,192
+Total Sales Events
+3rd Qtr. | 4th Qtr. | 1st Qtr. | 2nd Qtr. | 3rd Qtr.
+2025 | 2025 | 2026 | 2026 | 2026
+Investment Processing-related Businesses:
+Investment Managers | $29,925 | $20,497 | $50,520 | $32,035 | $32,012
+Private Banks | 374 | 29,079 | 6,521 | 10,141 | 10,112
+Total Investment Processing-related Businesses | $30,299 | $49,576 | $57,041 | $42,176 | $42,124
+Asset Management-related Businesses:
+Private Banks-AMD | ($1,674) | ($1,567) | $1,983 | $2,938 | $2,462
+Investment Advisors | 1,230 | (728) | 7,044 | (1,685) | 2,440
+Institutional Investors | (594) | (5,025) | (2,935) | (1,102) | (2,315)
+Total Asset Management-related Businesses | ($1,038) | ($7,320) | $6,092 | $151 | $2,587
+Newer Initiatives:
+Investments in New Businesses | $1,279 | $1,343 | $4,020 | $1,129 | $2,083
+Total Sales Events | $30,540 | $43,599 | $67,153 | $43,456 | $46,794
+10
+Non-GAAP Information & Reconciliations
+(In thousands, except per share data) (Unaudited)
+We present certain non‑GAAP financial measures to supplement the consolidated financial statements prepared in accordance with GAAP. Management believes these measures provide useful information to investors by enhancing the understanding of our core operating performance and facilitating comparisons across reporting periods. These non‑GAAP measures are also used by our management to evaluate operating results, allocate resources, and assess performance against strategic objectives.
+These non-GAAP financial measures should be viewed in addition to, and not as a substitute for, reported results prepared in accordance with GAAP.
+The following schedules reconcile U.S. GAAP financial measures to non-GAAP financial measures for the three and nine months ended September 30, 2026 and 2025:
+For the Three Months Ended September 30, | For the Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Net income attributable to SEI Investments Company (U.S. GAAP basis) | $168,258 | $164,204 | $538,403 | $542,804
+Non-GAAP adjustments:
+Acquisition-related:
+Third party costs (A) | — | 3,767 | — | 4,587
+Intangible assets amortization & impairments (B) | 7,379 | 3,168 | 21,070 | 9,774
+Total acquisition-related | 7,379 | 6,935 | 21,070 | 14,361
+Gain on sale of asset/business (C) | — | — | — | (94,412)
+Litigation settlements and insurance proceeds (D) | — | (4,350) | 3,808 | (8,850)
+Other individually significant items (E) | 32,500 | — | 32,500 | —
+Income tax effect (F) | (8,167) | (567) | (12,058) | 19,787
+Adjusted net income attributable to SEI Investments Company (non-GAAP basis) | $199,970 | $166,222 | $583,723 | $473,690
+Diluted EPS (U.S. GAAP basis) | $1.38 | $1.30 | $4.37 | $4.25
+Adjusted diluted EPS (non-GAAP basis) | $1.64 | $1.32 | $4.73 | $3.71
+Diluted weighted average shares outstanding | 122,012 | 126,325 | 123,280 | 127,684
+Income from operations (U.S. GAAP Basis) | $197,999 | $159,961 | $584,501 | $465,693
+Operating margin (U.S. GAAP Basis) | 30 | % | 28 | % | 30 | % | 28 | %
+Non-GAAP adjustments:
+Acquisition-related:
+Third party costs (A) | — | 3,767 | — | 4,587
+Intangible assets amortization & impairments (B) | 10,494 | 3,168 | 29,626 | 9,774
+Total acquisition-related | 10,494 | 6,935 | 29,626 | 14,361
+Adjusted income from operations (non-GAAP Basis) | $208,493 | $166,896 | $614,127 | $480,054
+Adjusted operating margin (non-GAAP basis) | 31 | % | 29 | % | 32 | % | 28 | %
+(A) This non-GAAP adjustment removes incremental and directly attributable costs incurred to execute acquisitions, such as third-party advisory, legal, accounting, valuation, and due diligence. For 2025, this non-GAAP adjustment consisted of the legal costs, advisory fees, and due diligence fees in relation to the Stratos acquisition. Management believes adjusting for these charges helps the reader's ability to understand our core operating results and increases comparability quarter to quarter.
+(B) This non-GAAP adjustment removes the impact of amortization expense associated with acquired intangible assets (e.g., customer relationships, technology, trade names). This non-GAAP adjustment removes only amortization recorded in the current period related to acquired intangibles from prior acquisitions. The non-GAAP adjustments in 2026 include the amortization of the acquired intangibles from the Stratos acquisition, which closed in December 2025. Management included the Stratos related amortization expense net of the 42.5% NCI adjustment for the adjusted EPS calculation. However, this adjustment is not inclusive of the NCI portion for adjusted operating margin. The associated revenues are not adjusted. Management believes adjusting for these charges helps the reader's ability to understand our core operating results and increases comparability quarter to quarter.
+(C) This non-GAAP adjustment removes realized gains on the sale of assets owned or entities under our control, out of the normal course of business. In 2025, the adjustment consisted of the realized gain from the sale of Family Office Services (FOS). Management believes adjusting for these gains helps the reader's ability to understand our core operating results and increases comparability quarter to quarter.
+(D) This non-GAAP adjustment removes individually significant litigation settlements and insurance proceeds. In 2026, this non-GAAP adjustment was related to litigation settlements. In 2025, this non-GAAP adjustment consisted of a $4.5M settlement related to a vendor matter and a $4.4M insurance recovery. Management included both of these transactions as non-GAAP adjustments since they were both out of the normal course of business. Management believes adjusting for these items helps the reader's ability to understand our core operating results and increases comparability quarter to quarter.
+11
+(E) This non-GAAP adjustment removes other items that are individually significant and highly unusual. In 2026, this non-GAAP adjustment consisted of the amount recognized related to the mutually agreed Termination Agreement between the Company and Stratos with respect to the previously reported obligations to proceed with the closing of the purchase of the equity of a Mexican RIA owned by Stratos. Management believes this charge is outside the normal course of business and not indicative of ongoing operating performance. Excluding this item enhances comparability between periods and assists investors in evaluating SEI's core operating results.
+(F) Income tax effects are presented as a separate reconciling item (not netted within each adjustment). For performance measures, the tax effect reflects current and deferred tax expense commensurate with the adjusted measure of profitability. The methodology used (e.g., statutory rate, effective rate, or discrete item approach) is consistently applied. All of the above items use a systematic approach.
+12
