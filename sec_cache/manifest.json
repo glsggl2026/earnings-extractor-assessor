@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-25T21:26:13+08:00",
+  "fetched_at": "2026-10-25T21:33:39+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,139 +16,139 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-18&enddt=2026-10-25",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 393 ms"
+      "detail": "HTTP 200, 60 KB in 629 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-18&enddt=2026-10-25&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 366 ms"
+      "detail": "HTTP 200, 60 KB in 107 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-18&enddt=2026-10-25&from=200",
       "ok": true,
-      "detail": "HTTP 200, 61 KB in 407 ms"
+      "detail": "HTTP 200, 61 KB in 257 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-18&enddt=2026-10-25&from=300",
       "ok": true,
-      "detail": "HTTP 200, 61 KB in 237 ms"
+      "detail": "HTTP 200, 61 KB in 72 ms"
     },
     {
       "name": "Earnings radar, page 5",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-18&enddt=2026-10-25&from=400",
       "ok": true,
-      "detail": "HTTP 200, 7 KB in 177 ms"
+      "detail": "HTTP 200, 7 KB in 95 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 29 ms"
+      "detail": "HTTP 200, 148 KB in 152 ms"
     },
     {
       "name": "Alphabet filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 46 ms"
+      "detail": "HTTP 200, 1 KB in 124 ms"
     },
     {
       "name": "Alphabet press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm",
       "ok": true,
-      "detail": "HTTP 200, 362 KB in 108 ms"
+      "detail": "HTTP 200, 362 KB in 258 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 18 ms"
+      "detail": "HTTP 200, 156 KB in 98 ms"
     },
     {
       "name": "Amazon filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 122 ms"
+      "detail": "HTTP 200, 1 KB in 87 ms"
     },
     {
       "name": "Amazon press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/amzn-20260630xex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 656 KB in 89 ms"
+      "detail": "HTTP 200, 656 KB in 134 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 18 ms"
+      "detail": "HTTP 200, 154 KB in 62 ms"
     },
     {
       "name": "Meta Platforms filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 52 ms"
+      "detail": "HTTP 200, 1 KB in 107 ms"
     },
     {
       "name": "Meta Platforms press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm",
       "ok": true,
-      "detail": "HTTP 200, 280 KB in 472 ms"
+      "detail": "HTTP 200, 280 KB in 144 ms"
     },
     {
       "name": "SEI INVESTMENTS CO filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/350894/000035089426000051/index.json",
       "ok": true,
-      "detail": "HTTP 200, 3 KB in 61 ms"
+      "detail": "HTTP 200, 3 KB in 60 ms"
     },
     {
       "name": "SEI INVESTMENTS CO press release",
       "url": "https://www.sec.gov/Archives/edgar/data/350894/000035089426000051/seic-earningsreleaseex9911.htm",
       "ok": true,
-      "detail": "HTTP 200, 655 KB in 38 ms"
+      "detail": "HTTP 200, 655 KB in 187 ms"
     },
     {
       "name": "UNITED COMMUNITY BANKS INC filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/857855/000110465926117113/index.json",
       "ok": true,
-      "detail": "HTTP 200, 4 KB in 118 ms"
+      "detail": "HTTP 200, 4 KB in 68 ms"
     },
     {
       "name": "UNITED COMMUNITY BANKS INC press release",
       "url": "https://www.sec.gov/Archives/edgar/data/857855/000110465926117113/tm2627820d1_ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 686 KB in 159 ms"
+      "detail": "HTTP 200, 686 KB in 138 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,090 KB in 73 ms"
+      "detail": "HTTP 200, 3,090 KB in 201 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,373 KB in 273 ms"
+      "detail": "HTTP 200, 4,373 KB in 207 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,735 KB in 27 ms"
+      "detail": "HTTP 200, 2,735 KB in 131 ms"
     },
     {
       "name": "SEI INVESTMENTS CO company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000350894.json",
       "ok": true,
-      "detail": "HTTP 200, 4,012 KB in 268 ms"
+      "detail": "HTTP 200, 4,012 KB in 265 ms"
     },
     {
       "name": "UNITED COMMUNITY BANKS INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000857855.json",
       "ok": true,
-      "detail": "HTTP 200, 5,543 KB in 393 ms"
+      "detail": "HTTP 200, 5,543 KB in 531 ms"
     }
   ],
   "files": [
