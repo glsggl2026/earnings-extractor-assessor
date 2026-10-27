@@ -306,5 +306,89 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/857855/000110465926117113/tm2627820d1_ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/857855/000110465926117113/0001104659-26-117113-index.htm",
     "saved_at": "2026-10-25T21:40:32+08:00"
+  },
+  {
+    "cik": "1951276",
+    "company": "SR Bancorp, Inc.",
+    "accession": "0001437749-26-033517",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 1.068,
+        "unit": "USD millions",
+        "quote": "Net Income | $ | 1,068"
+      },
+      "diluted_eps": {
+        "value": 0.15,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 0.15"
+      }
+    },
+    "guidance": null,
+    "management": [],
+    "tone": null,
+    "picked_from_radar": true,
+    "source_file": "sources/1951276-0001437749-26-033517.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1951276/000143774926033517/ex_1018125.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1951276/000143774926033517/0001437749-26-033517-index.htm",
+    "saved_at": "2026-10-27T10:16:46+08:00"
+  },
+  {
+    "cik": "1667313",
+    "company": "Zedge, Inc.",
+    "accession": "0001213900-26-112482",
+    "release_date": "2026-10-26",
+    "period_end": "2026-07-31",
+    "period_label": "quarter ended 31 July 2026",
+    "figures": {
+      "revenue": {
+        "value": 7.77,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 7,770"
+      },
+      "operating_income": {
+        "value": 0.258,
+        "unit": "USD millions",
+        "quote": "Income (loss) from operations | 258"
+      },
+      "net_income": {
+        "value": 0.444,
+        "unit": "USD millions",
+        "quote": "Net income (loss) | $ | 444"
+      },
+      "diluted_eps": {
+        "value": 0.03,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.03"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Subscription revenue grew nearly 30% in fiscal 2026 and overall revenue rose about 8%.",
+        "quote": "Our relentless focus on monetization improvement drove solid revenue gains, especially within our subscription offerings, where revenue grew nearly 30%."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Cost restructuring and growth lifted adjusted earnings and free cash flow.",
+        "quote": "Combined with the benefits of our FY2025 restructuring, these improvements contributed to significant growth in non-GAAP EPS2, adjusted EBITDA2 and free cash flow."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The COO calls fiscal 2026 a strong recovery year and notes the revenue gains and cash generation."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1667313-0001213900-26-112482.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1667313/000121390026112482/ea030959801ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1667313/000121390026112482/0001213900-26-112482-index.htm",
+    "saved_at": "2026-10-27T10:16:46+08:00"
   }
 ]
