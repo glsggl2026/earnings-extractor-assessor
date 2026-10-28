@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-28T08:27:10+08:00",
+  "fetched_at": "2026-10-28T08:43:08+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,115 +16,115 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-27",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 160 ms"
+      "detail": "HTTP 200, 60 KB in 49 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-27&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 66 ms"
+      "detail": "HTTP 200, 60 KB in 18 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-27&from=200",
       "ok": true,
-      "detail": "HTTP 200, 30 KB in 64 ms"
+      "detail": "HTTP 200, 30 KB in 27 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 150 ms"
+      "detail": "HTTP 200, 148 KB in 25 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 80 ms"
+      "detail": "HTTP 200, 156 KB in 19 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 155 KB in 75 ms"
+      "detail": "HTTP 200, 155 KB in 76 ms"
     },
     {
       "name": "ILLINOIS TOOL WORKS INC filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/49826/000004982626000057/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 322 ms"
+      "detail": "HTTP 200, 1 KB in 49 ms"
     },
     {
       "name": "ILLINOIS TOOL WORKS INC press release",
       "url": "https://www.sec.gov/Archives/edgar/data/49826/000004982626000057/a20260930-3q26ex991pressre.htm",
       "ok": true,
-      "detail": "HTTP 200, 365 KB in 161 ms"
+      "detail": "HTTP 200, 365 KB in 99 ms"
     },
     {
       "name": "Skyline Bankshares, Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1657642/000143774926033561/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 96 ms"
+      "detail": "HTTP 200, 1 KB in 24 ms"
     },
     {
       "name": "Skyline Bankshares, Inc. filing index page",
       "url": "https://www.sec.gov/Archives/edgar/data/1657642/000143774926033561/0001437749-26-033561-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 94 ms"
+      "detail": "HTTP 200, 10 KB in 41 ms"
     },
     {
       "name": "Skyline Bankshares, Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1657642/000143774926033561/ex_1031648.htm",
       "ok": true,
-      "detail": "HTTP 200, 453 KB in 96 ms"
+      "detail": "HTTP 200, 453 KB in 33 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,090 KB in 149 ms"
+      "detail": "HTTP 200, 3,090 KB in 45 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,373 KB in 138 ms"
+      "detail": "HTTP 200, 4,373 KB in 27 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,736 KB in 124 ms"
+      "detail": "HTTP 200, 2,736 KB in 27 ms"
     },
     {
       "name": "ILLINOIS TOOL WORKS INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000049826.json",
       "ok": true,
-      "detail": "HTTP 200, 3,449 KB in 138 ms"
+      "detail": "HTTP 200, 3,449 KB in 319 ms"
     },
     {
       "name": "Skyline Bankshares, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001657642.json",
       "ok": true,
-      "detail": "HTTP 200, 2,773 KB in 290 ms"
+      "detail": "HTTP 200, 2,773 KB in 296 ms"
     },
     {
       "name": "UNITED COMMUNITY BANKS INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000857855.json",
       "ok": true,
-      "detail": "HTTP 200, 5,543 KB in 794 ms"
+      "detail": "HTTP 200, 5,543 KB in 700 ms"
     },
     {
       "name": "SR Bancorp, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001951276.json",
       "ok": true,
-      "detail": "HTTP 200, 901 KB in 100 ms"
+      "detail": "HTTP 200, 901 KB in 77 ms"
     },
     {
       "name": "Zedge, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001667313.json",
       "ok": true,
-      "detail": "HTTP 200, 1,543 KB in 287 ms"
+      "detail": "HTTP 200, 1,543 KB in 238 ms"
     }
   ],
   "files": [
