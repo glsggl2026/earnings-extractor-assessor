@@ -1857,5 +1857,183 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-03T06:37:57+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-03-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 0,
+      "total": 7,
+      "failures": [
+        {
+          "name": "UNITED COMMUNITY BANKS INC company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403)"
+        },
+        {
+          "name": "SR Bancorp, Inc. company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        },
+        {
+          "name": "Zedge, Inc. company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        },
+        {
+          "name": "Alphabet company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        },
+        {
+          "name": "Amazon company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        },
+        {
+          "name": "PITNEY BOWES INC /DE/ company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        },
+        {
+          "name": "TRUSTMARK CORP company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        }
+      ]
+    },
+    "counts": {
+      "to_assess": 7,
+      "checked": 7,
+      "rechecks": 7,
+      "confirmed": 0,
+      "mismatch": 0,
+      "cannot_check": 28
+    },
+    "companies": [
+      {
+        "cik": "857855",
+        "company": "UNITED COMMUNITY BANKS INC",
+        "accession": "0001104659-26-117113",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 1,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 4,
+          "S3": 3
+        }
+      },
+      {
+        "cik": "1951276",
+        "company": "SR Bancorp, Inc.",
+        "accession": "0001437749-26-033517",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 3,
+          "S3": 3
+        }
+      },
+      {
+        "cik": "1667313",
+        "company": "Zedge, Inc.",
+        "accession": "0001213900-26-112482",
+        "period_label": "quarter ended 31 July 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1652044",
+        "company": "Alphabet",
+        "accession": "0001652044-26-000080",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1018724",
+        "company": "Amazon",
+        "accession": "0001018724-26-000038",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "78814",
+        "company": "PITNEY BOWES INC /DE/",
+        "accession": "0001628280-26-067888",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 4,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "36146",
+        "company": "TRUSTMARK CORP",
+        "accession": "0001193125-26-434330",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 3,
+          "S3": 4
+        }
+      }
+    ],
+    "headline": "Checked 7 extractions: 0 figures confirmed, 0 mismatches, 28 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-03T06:18:12+08:00",
+      "watch_brief": "briefs/2026-11-03-watch.md",
+      "brief_says": null,
+      "saved_for_run": 0,
+      "match": null
+    },
+    "offline": false
   }
 ]
