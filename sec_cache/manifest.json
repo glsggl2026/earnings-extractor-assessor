@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-22T09:10:05+08:00",
+  "fetched_at": "2026-11-22T09:33:27+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -9,154 +9,160 @@
     "note": "The last radar run was more than 14 days ago, so the radar looked back 14 days only."
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 23,
-  "answered": 23,
+  "requests": 24,
+  "answered": 24,
   "sources": [
     {
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-07&enddt=2026-11-21",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 1285 ms"
+      "detail": "HTTP 200, 60 KB in 340 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-07&enddt=2026-11-21&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 192 ms"
+      "detail": "HTTP 200, 60 KB in 681 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-07&enddt=2026-11-21&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 918 ms"
+      "detail": "HTTP 200, 60 KB in 322 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-07&enddt=2026-11-21&from=300",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 630 ms"
+      "detail": "HTTP 200, 60 KB in 234 ms"
     },
     {
       "name": "Earnings radar, page 5",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-07&enddt=2026-11-21&from=400",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 867 ms"
+      "detail": "HTTP 200, 60 KB in 299 ms"
     },
     {
       "name": "Earnings radar, page 6",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-07&enddt=2026-11-21&from=500",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 316 ms"
+      "detail": "HTTP 200, 59 KB in 240 ms"
     },
     {
       "name": "Earnings radar, page 7",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-07&enddt=2026-11-21&from=600",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 353 ms"
+      "detail": "HTTP 200, 60 KB in 203 ms"
     },
     {
       "name": "Earnings radar, page 8",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-07&enddt=2026-11-21&from=700",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 329 ms"
+      "detail": "HTTP 200, 60 KB in 253 ms"
     },
     {
       "name": "Earnings radar, page 9",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-07&enddt=2026-11-21&from=800",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 330 ms"
+      "detail": "HTTP 200, 60 KB in 237 ms"
     },
     {
       "name": "Earnings radar, page 10",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-07&enddt=2026-11-21&from=900",
       "ok": true,
-      "detail": "HTTP 200, 61 KB in 526 ms"
+      "detail": "HTTP 200, 61 KB in 184 ms"
     },
     {
       "name": "Earnings radar, page 11",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-07&enddt=2026-11-21&from=1000",
       "ok": true,
-      "detail": "HTTP 200, 17 KB in 436 ms"
+      "detail": "HTTP 200, 17 KB in 414 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 127 ms"
+      "detail": "HTTP 200, 148 KB in 130 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 20 ms"
+      "detail": "HTTP 200, 156 KB in 122 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 23 ms"
+      "detail": "HTTP 200, 153 KB in 82 ms"
     },
     {
-      "name": "ImmunityBio, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1326110/000132611026000097/index.json",
+      "name": "NextBoat Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/2067767/000149315226052352/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 59 ms"
+      "detail": "HTTP 200, 1 KB in 254 ms"
     },
     {
-      "name": "ImmunityBio, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1326110/000132611026000097/ibrx-2026119x8kexhibit991.htm",
+      "name": "NextBoat Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/2067767/000149315226052352/ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 150 KB in 133 ms"
+      "detail": "HTTP 200, 104 KB in 239 ms"
     },
     {
-      "name": "Xilio Therapeutics, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1840233/000119312526454449/index.json",
+      "name": "NATURAL GAS SERVICES GROUP INC filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1084991/000108499126000098/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 160 ms"
+      "detail": "HTTP 200, 3 KB in 144 ms"
     },
     {
-      "name": "Xilio Therapeutics, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1840233/000119312526454449/xlo-ex99_1.htm",
+      "name": "NATURAL GAS SERVICES GROUP INC filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/1084991/000108499126000098/0001084991-26-000098-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 182 KB in 55 ms"
+      "detail": "HTTP 200, 14 KB in 185 ms"
+    },
+    {
+      "name": "NATURAL GAS SERVICES GROUP INC press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1084991/000108499126000098/q3earningscallscript-ex9.htm",
+      "ok": true,
+      "detail": "HTTP 200, 35 KB in 334 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 124 ms"
+      "detail": "HTTP 200, 3,174 KB in 176 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 46 ms"
+      "detail": "HTTP 200, 4,447 KB in 103 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 52 ms"
+      "detail": "HTTP 200, 2,745 KB in 95 ms"
     },
     {
-      "name": "ImmunityBio, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326110.json",
+      "name": "NextBoat Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002067767.json",
       "ok": true,
-      "detail": "HTTP 200, 2,649 KB in 210 ms"
+      "detail": "HTTP 200, 268 KB in 241 ms"
     },
     {
-      "name": "Xilio Therapeutics, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001840233.json",
+      "name": "NATURAL GAS SERVICES GROUP INC company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001084991.json",
       "ok": true,
-      "detail": "HTTP 200, 685 KB in 477 ms"
+      "detail": "HTTP 200, 2,585 KB in 541 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001326110.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001084991.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001840233.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0002067767.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -171,9 +177,10 @@
     "efts.sec.gov_search-index_from700.json",
     "efts.sec.gov_search-index_from800.json",
     "efts.sec.gov_search-index_from900.json",
-    "www.sec.gov_Archives_edgar_data_1326110_000132611026000097_ibrx-2026119x8kexhibit991.htm",
-    "www.sec.gov_Archives_edgar_data_1326110_000132611026000097_index.json",
-    "www.sec.gov_Archives_edgar_data_1840233_000119312526454449_index.json",
-    "www.sec.gov_Archives_edgar_data_1840233_000119312526454449_xlo-ex99_1.htm"
+    "www.sec.gov_Archives_edgar_data_1084991_000108499126000098_0001084991-26-000098-index.htm",
+    "www.sec.gov_Archives_edgar_data_1084991_000108499126000098_index.json",
+    "www.sec.gov_Archives_edgar_data_1084991_000108499126000098_q3earningscallscript-ex9.htm",
+    "www.sec.gov_Archives_edgar_data_2067767_000149315226052352_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_2067767_000149315226052352_index.json"
   ]
 }
