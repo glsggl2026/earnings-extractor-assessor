@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-26T11:29:14+08:00",
+  "fetched_at": "2026-11-26T11:45:10+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,128 +16,128 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-25",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 294 ms"
+      "detail": "HTTP 200, 60 KB in 138 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-25&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 210 ms"
+      "detail": "HTTP 200, 60 KB in 30 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-25&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 195 ms"
+      "detail": "HTTP 200, 60 KB in 19 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-25&from=300",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 212 ms"
+      "detail": "HTTP 200, 59 KB in 17 ms"
     },
     {
       "name": "Earnings radar, page 5",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-25&from=400",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 500 ms"
+      "detail": "HTTP 200, 60 KB in 26 ms"
     },
     {
       "name": "Earnings radar, page 6",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-25&from=500",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 221 ms"
+      "detail": "HTTP 200, 60 KB in 28 ms"
     },
     {
       "name": "Earnings radar, page 7",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-25&from=600",
       "ok": true,
-      "detail": "HTTP 200, 61 KB in 215 ms"
+      "detail": "HTTP 200, 61 KB in 19 ms"
     },
     {
       "name": "Earnings radar, page 8",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-25&from=700",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 210 ms"
+      "detail": "HTTP 200, 10 KB in 43 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 240 ms"
+      "detail": "HTTP 200, 148 KB in 36 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 218 ms"
+      "detail": "HTTP 200, 156 KB in 18 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 217 ms"
+      "detail": "HTTP 200, 154 KB in 40 ms"
     },
     {
-      "name": "CubeSmart filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1298675/000129867526000052/index.json",
+      "name": "Ainos, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1014763/000149315226052061/index.json",
       "ok": true,
-      "detail": "HTTP 200, 4 KB in 409 ms"
+      "detail": "HTTP 200, 1 KB in 142 ms"
     },
     {
-      "name": "CubeSmart press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1298675/000129867526000052/cube-ex99d1.htm",
+      "name": "Ainos, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1014763/000149315226052061/ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 69 KB in 2998 ms"
+      "detail": "HTTP 200, 82 KB in 36 ms"
     },
     {
-      "name": "iANTHUS CAPITAL HOLDINGS, INC. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1643154/000119312526458735/index.json",
+      "name": "DATA I/O CORP filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/351998/000110465926125817/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 468 ms"
+      "detail": "HTTP 200, 2 KB in 183 ms"
     },
     {
-      "name": "iANTHUS CAPITAL HOLDINGS, INC. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1643154/000119312526458735/ithuf-ex99_1.htm",
+      "name": "DATA I/O CORP press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/351998/000110465926125817/daio-ex99d1.htm",
       "ok": true,
-      "detail": "HTTP 200, 142 KB in 3232 ms"
+      "detail": "HTTP 200, 259 KB in 74 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,175 KB in 317 ms"
+      "detail": "HTTP 200, 3,175 KB in 58 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 422 ms"
+      "detail": "HTTP 200, 4,447 KB in 51 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 292 ms"
+      "detail": "HTTP 200, 2,745 KB in 47 ms"
     },
     {
-      "name": "CubeSmart company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001298675.json",
+      "name": "Ainos, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001014763.json",
       "ok": true,
-      "detail": "HTTP 200, 2,655 KB in 292 ms"
+      "detail": "HTTP 200, 1,579 KB in 173 ms"
     },
     {
-      "name": "iANTHUS CAPITAL HOLDINGS, INC. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001643154.json",
+      "name": "DATA I/O CORP company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000351998.json",
       "ok": true,
-      "detail": "HTTP 200, 1,003 KB in 410 ms"
+      "detail": "HTTP 200, 2,214 KB in 883 ms"
     }
   ],
   "files": [
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000351998.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001014763.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001298675.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001643154.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
@@ -150,9 +150,9 @@
     "efts.sec.gov_search-index_from500.json",
     "efts.sec.gov_search-index_from600.json",
     "efts.sec.gov_search-index_from700.json",
-    "www.sec.gov_Archives_edgar_data_1298675_000129867526000052_cube-ex99d1.htm",
-    "www.sec.gov_Archives_edgar_data_1298675_000129867526000052_index.json",
-    "www.sec.gov_Archives_edgar_data_1643154_000119312526458735_index.json",
-    "www.sec.gov_Archives_edgar_data_1643154_000119312526458735_ithuf-ex99_1.htm"
+    "www.sec.gov_Archives_edgar_data_1014763_000149315226052061_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_1014763_000149315226052061_index.json",
+    "www.sec.gov_Archives_edgar_data_351998_000110465926125817_daio-ex99d1.htm",
+    "www.sec.gov_Archives_edgar_data_351998_000110465926125817_index.json"
   ]
 }
